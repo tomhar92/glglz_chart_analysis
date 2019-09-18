@@ -1,0 +1,496 @@
+result,year,genres,views,spotify_name,spotify_artist
+Dreadlock Holiday,1978,['Reggae'],36181,Dreadlock Holiday,10cc
+I'm Not in Love,1975,['Soft rock'],95326,I'm Not In Love,10cc
+Gimme! Gimme! Gimme! (A Man After Midnight),1979,['Disco'],60035,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA
+Chiquitita,1979,"['Pop music', 'Europop']",46955,Chiquitita,ABBA
+Mamma Mia (ABBA song),1975,"['Europop', 'Pop rock']",10273,Mamma Mia,ABBA
+None,0,[],0,Sos,ABBAdance
+Take a Chance on Me,1978,"['Europop', 'Disco']",32133,Take A Chance On Me,ABBA
+Dancing Queen,1976,"['Disco', 'Europop', 'Euro disco']",129165,Dancing Queen,ABBA
+Waterloo (ABBA song),1974,['Europop'],70785,Waterloo,ABBA
+Voulez-Vous,0,[],59763,Voulez-Vous,ABBA
+Fernando (song),1976,['Europop'],74561,Fernando,ABBA
+"Knowing Me, Knowing You",1977,['Europop'],24277,"Knowing Me, Knowing You",ABBA
+"Money, Money, Money",1976,['Baroque pop'],41443,"Money, Money, Money",ABBA
+Highway to Hell (song),1979,['Hard rock'],45645,Highway to Hell,AC/DC
+Dream On (Aerosmith song),1973,"['Hard rock', 'Blues rock']",138199,Dream On,Aerosmith
+Ramaya,1975,[],4154,Ramaya,Afric Simone
+Let's Stay Together (Al Green song),1971,['Soul music'],40507,Let's Stay Together,Al Green
+Love and Happiness,1977,"['Soul music', 'R&B']",12268,Love and Happiness,Al Green
+Year of the Cat,0,"['Rock (music)', 'Soft rock', 'Progressive pop']",40915,Year of the Cat,Al Stewart
+School's Out (album),0,['Hard rock'],44527,School's Out,Alice Cooper
+A Horse with No Name,1971,"['Folk rock', 'Soft rock']",140314,A Horse with No Name,America
+Ventura Highway,1972,"['Soft rock', 'Folk rock']",49006,Ventura Highway,America
+Sister Golden Hair,1975,"['Folk rock', 'Soft rock']",38694,Sister Golden Hair,America
+Knock on Wood (song),1966,['Soul music'],35423,Knock On Wood,Amii Stewart
+(Where Do I Begin?) Love Story,1971,['Easy listening'],142482,"Where Do I Begin - Love Theme from ""Love Story""",Andy Williams
+Ring My Bell,1979,['Disco'],45285,Ring My Bell,Anita Ward
+Tu te reconnaîtras,0,[],6341,Tu te reconnaitras,Anne-Marie David
+Rock Steady (Aretha Franklin song),1971,['Funk'],9863,Rock Steady,Aretha Franklin
+Son of a Preacher Man,1968,"['Blue-eyed soul', 'Rhythm and blues']",74018,Son of a Preacher Man,Aretha Franklin
+Bright Eyes (Art Garfunkel song),1979,['Pop ballad'],28639,Bright Eyes,Art Garfunkel
+Yummy Yummy Yummy,1968,['Bubblegum pop'],27789,"Yummy, Yummy, Yummy",Baccara
+"Yes Sir, I Can Boogie",1977,"['Disco', 'Euro disco']",28785,"Yes Sir, I Can Boogie",Baccara
+You Ain't Seen Nothing Yet (Bachman–Turner Overdrive song),1974,['Rock music'],24299,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive
+None,0,[],0,No More Tears (Enough Is Enough) (feat. Donna Summer),Barbra Streisand
+Brandy (Scott English song),1971,['Pop music'],19228,Mandy,Barry Manilow
+Copacabana (song),1978,['Disco'],65642,Copacabana (At the Copa),Barry Manilow
+"You're the First, the Last, My Everything",1974,"['R&B', 'Disco']",21924,"You're The First, The Last, My Everything",Barry White
+"Can't Get Enough of Your Love, Babe",1974,"['Disco music', 'Soul music']",25404,"Can't Get Enough Of Your Love, Babe",Barry White
+I Only Want to Be with You,1963,['Pop music'],67551,I Only Want to Be with You,Bay City Rollers
+The Long and Winding Road,1970,['Rock music'],85136,The Long And Winding Road - Remastered 2009,The Beatles
+Across the Universe,1969,['Psychedelic folk'],96462,Across The Universe - Remastered 2009,The Beatles
+Let It Be (Beatles song),1970,"['Rock music', 'Pop music', 'Gospel music']",86724,Let It Be - Remastered 2009,The Beatles
+How Deep Is Your Love (Bee Gees song),1977,['Soft rock'],77156,How Deep Is Your Love,Bee Gees
+Tragedy (Bee Gees song),1979,['Disco-rock'],25425,Tragedy,Bee Gees
+Stayin' Alive,1977,['Disco'],114300,Stayin Alive,Bee Gees
+You Should Be Dancing,1976,['Disco'],23001,You Should Be Dancing - Edit,Bee Gees
+Night Fever,1978,['Disco'],31451,"Night Fever - From ""Saturday Night Fever"" Soundtrack",Bee Gees
+More Than a Woman (Bee Gees song),1977,['Disco'],26718,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",Bee Gees
+The Rose (soundtrack),0,"['Vocal music', 'Rock music', 'Blues']",10324,The Rose,Bette Midler
+In the Street (song),1972,['Power pop'],13216,In The Street,Big Star
+Ain't No Sunshine,1971,"['Rhythm and blues', 'Soul music', 'Blues']",85305,Ain't No Sunshine,Bill Withers
+Lean on Me (song),1972,['Soul music'],72653,Lean on Me,Bill Withers
+Lovely Day (song),1977,"['R&B', 'Soul music', 'Funk', 'Disco']",54734,Lovely Day,Bill Withers
+Piano Man (album),0,"['Pop rock', 'Soft rock', 'Country rock']",67032,Piano Man,Billy Joel
+Honesty (Billy Joel song),1979,"['Soft rock', 'Soul music']",16574,Honesty,Billy Joel
+Movin' Out (Anthony's Song),1977,['Rock music'],29565,Movin' Out (Anthony's Song),Billy Joel
+My Life (Billy Joel song),1978,"['Pop rock', 'Art pop']",25875,My Life,Billy Joel
+New York State of Mind,1976,"['Jazz', 'Soft rock']",26184,New York State of Mind,Billy Joel
+She's Always a Woman,1977,"['Soft rock', 'Folk rock']",39338,She's Always a Woman,Billy Joel
+Just the Way You Are (Billy Joel song),1977,['Soft rock'],56197,Just the Way You Are,Billy Joel
+Me and Mrs. Jones,1972,['Soul music'],42322,Me and Mrs. Jones,Billy Paul
+Nothing from Nothing (Billy Preston song),0,['Soul music'],11014,Nothing From Nothing,Billy Preston
+Iron Man (song),1971,['Heavy metal music'],94911,Iron Man,Black Sabbath
+War Pigs,1970,['Heavy metal music'],65817,War Pigs,Black Sabbath
+Paranoid (Black Sabbath song),1970,"['Heavy metal music', 'Proto-punk']",48867,Paranoid,Black Sabbath
+Heart of Glass (song),1979,"['Disco', 'New wave music']",78820,Heart Of Glass,Blondie
+Hanging on the Telephone,1978,"['Power pop', 'New wave music']",18532,Hanging On The Telephone,Blondie
+One Way or Another,1979,"['Punk rock', 'New wave music', 'Power pop']",51581,One Way Or Another,Blondie
+Dreaming (Blondie song),1979,['Power pop'],14375,Dreaming,Blondie
+Blondie (band),0,[],448757,Denis,Blondie
+(Don't Fear) The Reaper,1976,"['Hard rock', 'Psychedelic rock', 'Soft rock']",146297,(Don't Fear) The Reaper,Blue Öyster Cult
+None,0,[],0,Don't Be Fooled by the Name,Blue Swede
+Knockin' on Heaven's Door,1973,"['Folk rock', 'Gospel music']",189606,Knockin' On Heaven's Door - Remastered,Bob Dylan
+Forever Young (Bob Dylan song),1974,['Rock music'],61507,Forever Young - Slow Version,Bob Dylan
+Hurricane (Bob Dylan song),1975,"['Folk rock', 'Protest song']",99568,Hurricane,Bob Dylan
+Sara Dylan,0,[],227281,Sara,Bob Dylan
+None,0,[],0,One More Cup of Coffee,Bob Dylan
+Is This Love (Bob Marley & The Wailers song),1978,['Reggae'],23719,Is This Love,Bob Marley & The Wailers
+"No Woman, No Cry",1975,['Reggae'],100773,"No Woman, No Cry - Live At The Lyceum, London/1975",Bob Marley & The Wailers
+Jamming (song),1977,['Reggae'],14754,Jamming,Bob Marley & The Wailers
+One Love/People Get Ready,1977,['Roots reggae'],28748,One Love,Bob Marley & The Wailers
+Waiting in Vain,1977,['Reggae'],14285,Waiting In Vain,Bob Marley & The Wailers
+"Get Up, Stand Up",1973,['Reggae'],21497,"Get Up, Stand Up",Bob Marley & The Wailers
+I Shot the Sheriff,1973,['Reggae'],100582,I Shot The Sheriff,The Wailers
+Across 110th Street,0,[],35607,Across 110th Street,Bobby Womack
+Ma Baker,1977,['Disco'],38352,Ma Baker,Boney M.
+Rivers of Babylon,1978,"['Disco', 'Rocksteady', 'Reggae']",76779,Rivers of Babylon,Boney M.
+Boney M.,0,[],464788,Sunny,Boney M.
+Daddy Cool (Boney M. song),1976,['Disco'],43397,Daddy Cool,Boney M.
+I Don't Like Mondays,1979,[],189694,I Don't Like Mondays,The Boomtown Rats
+More Than a Feeling,1976,"['Arena rock', 'Hard rock']",84780,More Than a Feeling,Boston
+Bread,0,[],315555,If,Bread
+None,0,[],0,Save Your Kisses for Me,Brotherman Of Man
+Born to Run (Bruce Springsteen song),1975,"['Rock music', 'Power pop']",27100,Born to Run,Bruce Springsteen
+Let's Stick Together,0,"['Rhythm and blues', 'Glam rock']",23760,Let's Stick Together,Bryan Ferry
+Ever Fallen in Love (With Someone You Shouldn't've),1978,"['Punk rock', 'Pop punk', 'Power pop']",29912,Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version,Buzzcocks
+None,0,[],0,Rhayader,Camel
+Vitamin C,0,[],530093,Vitamin C,CAN
+Kung Fu Fighting,1974,['Disco'],75966,Kung Fu Fighting,Carl Douglas
+You're So Vain,1972,"['Pop music', 'Soft rock']",210845,You're so Vain,Carly Simon
+I Feel the Earth Move,1971,['Pop rock'],25374,I Feel the Earth Move,Carole King
+It's Too Late (Carole King song),1971,"['Soft rock', 'Doo-wop']",31882,It's Too Late,Carole King
+So Far Away (Carole King song),1971,"['Folk rock', 'Soft rock']",15488,So Far Away,Carole King
+Superstar (Delaney and Bonnie song),1969,"['Adult contemporary', 'Pop rock', 'Soft rock']",38029,Superstar,Carpenters
+We've Only Just Begun,1970,"['Soft rock', 'Traditional pop']",36930,We've Only Just Begun,Carpenters
+(They Long to Be) Close to You,1970,"['Pop music', 'Soft rock']",61795,(They Long To Be) Close To You,Carpenters
+Top of the World (Carpenters song),1973,['Country pop'],0,Top Of The World,Carpenters
+Rainy Days and Mondays,1971,['Pop music'],19725,Rainy Days And Mondays,Carpenters
+Yesterday Once More (song),1973,['Pop music'],23431,Yesterday Once More,Carpenters
+Just What I Needed,1978,"['New wave music', 'Power pop', 'Hard rock']",29987,Just What I Needed,The Cars
+None,0,[],0,Sad Lisa,Yusuf / Cat Stevens
+Wild World (song),1970,['Folk rock'],59134,Wild World,Yusuf / Cat Stevens
+Morning Has Broken,0,[],76547,Morning Has Broken,Yusuf / Cat Stevens
+Father and Son (song),1970,['Folk rock'],104052,Father And Son,Yusuf / Cat Stevens
+Supernature (Cerrone III),0,['Disco'],6712,Supernature,Cerrone
+I'm Every Woman,1978,['Disco'],58082,I'm Every Woman,Chaka Khan
+She (Charles Aznavour song),1974,['Pop music'],48067,Tous les visages de l'amour,Charles Aznavour
+The Devil Went Down to Georgia,1979,"['Bluegrass music', 'Country music', 'Country rock']",116636,The Devil Went Down to Georgia,The Charlie Daniels Band
+The Most Beautiful Girl,1973,['Country music'],18480,The Most Beautiful Girl,Charlie Rich
+I Want Your Love (Chic song),1979,['Disco'],17422,I Want Your Love - 2018 Remaster,CHIC
+Good Times (Chic song),1979,['Disco'],40438,Good Times,CHIC
+Le Freak,1978,"['Disco', 'Funk']",63459,Le Freak,CHIC
+If You Leave Me Now,1976,['Soft rock'],48129,If You Leave Me Now,Chicago
+Son of My Father,1972,"['Glam rock', 'Electronic music']",11103,Son Of My Father,Chicory Tip
+Fool (If You Think It's Over),1978,['Soft rock'],17491,Fool (If You Think It's Over),Chris Rea
+Yellow River (song),1970,['Pop rock'],21312,Yellow River,Christie
+I Fought the Law,1960,['Rock and roll'],80188,I Fought the Law,The Clash
+London Calling,0,"['Post-punk', 'Punk rock']",176180,London Calling - Remastered,The Clash
+Brick House (song),1977,['Funk'],47740,Brick House,Commodores
+Easy (Commodores song),1977,['Soul music'],82543,Easy,Commodores
+Have You Ever Seen the Rain?,1971,"['Roots rock', 'Country rock']",107193,Have You Ever Seen The Rain,Creedence Clearwater Revival
+"Our House (Crosby, Stills, Nash & Young song)",1970,"['Baroque pop', 'Soft rock', 'Folk rock']",38470,Our House,"Crosby, Stills, Nash & Young"
+"Ohio (Crosby, Stills, Nash & Young song)",1970,['Hard rock'],70644,Ohio,"Crosby, Stills, Nash & Young"
+Helplessly Hoping,1969,['Folk rock'],19265,Helplessly Hoping,"Crosby, Stills & Nash"
+Boys Don't Cry (The Cure album),0,['Post-punk'],66657,Boys Don't Cry,The Cure
+Move On Up,1971,"['Funk', 'Soul music']",21954,Move On Up,Curtis Mayfield
+Superfly (song),1972,"['Funk', 'Soul music']",8532,Superfly,Curtis Mayfield
+Pusherman,0,[],4749,Pusherman,Curtis Mayfield
+Parole parole,1972,[],16968,Paroles paroles,Dalida
+Starman (song),1972,"['Pop rock', 'Glam rock']",62785,Starman - 1997 Remaster,David Bowie
+Ziggy Stardust (song),0,['Glam rock'],32185,Ziggy Stardust - 2012 Remaster,David Bowie
+The Man Who Sold the World (album),0,"['Hard rock', 'Glam rock', 'Blues rock', 'Folk rock']",127670,The Man Who Sold The World - 2015 Remastered Version,David Bowie
+Rebel Rebel,1974,"['Glam rock', 'Proto-punk']",45436,Rebel Rebel - 2016 Remaster,David Bowie
+Five Years (David Bowie song),1972,"['Glam rock', 'Art rock']",17992,Five Years - 2012 Remaster,David Bowie
+Changes (David Bowie song),1972,['Art pop'],52414,Changes - 2015 Remaster,David Bowie
+Life on Mars (song),1971,"['Glam rock', 'Art rock']",76793,Life on Mars? - 2015 Remaster,David Bowie
+Sound and Vision,1977,[],20573,Sound and Vision - 2017 Remaster,David Bowie
+Aladdin Sane,0,"['Glam rock', 'Hard rock', 'Art rock']",158000,Aladdin Sane - 2013 Remaster,David Bowie
+Young Americans,0,"['Blue-eyed soul', 'Rhythm and blues']",116021,Young Americans - 2016 Remaster,David Bowie
+Wild Is the Wind (song),1976,['Blue-eyed soul'],35098,Wild Is the Wind - 2016 Remaster,David Bowie
+Moonage Daydream,1971,['Art rock'],32687,Moonage Daydream - 2012 Remaster,David Bowie
+"""Heroes"" (David Bowie song)",1977,['Art rock'],132222,Heroes - 2017 Remaster,David Bowie
+Highway Star (song),1972,"['Hard rock', 'Heavy metal music']",28058,Highway Star,Deep Purple
+Child in Time,1970,"['Art rock', 'Hard rock', 'Heavy metal music', 'Progressive rock']",32555,Child in Time,Deep Purple
+Smoke on the Water,1973,"['Hard rock', 'Heavy metal music']",130012,Smoke On The Water - Remastered 2012,Deep Purple
+Theme from Mahogany (Do You Know Where You're Going To),1975,"['Pop music', 'Soul music', 'Contemporary R&B']",24971,Theme From Mahogany (Do You Know Where You're Going To) - Single Version,Diana Ross
+Sultans of Swing,1978,['Pub rock (United Kingdom)'],113733,Sultans Of Swing,Dire Straits
+Jolene (song),1973,"['Country music', 'Bluegrass music']",198536,Jolene,Dolly Parton
+I Will Always Love You,1974,['Country music'],415414,I Will Always Love You,Dolly Parton
+Vincent (Don McLean song),1972,['Folk rock'],5954,Vincent,Don McLean
+American Pie (Don McLean album),0,"['Folk music', 'Folk rock']",43928,American Pie,Don McLean
+Love to Love You Baby (song),1975,"['Disco', 'Funk']",48062,Love To Love You Baby,Donna Summer
+I Feel Love,1977,['Hi-NRG'],67694,I Feel Love,Donna Summer
+Hot Stuff (Donna Summer song),1979,"['Disco', 'Rock music']",37062,Hot Stuff,Donna Summer
+Bad Girls (Donna Summer album),0,"['Disco', 'Hi-NRG', 'R&B']",34512,Bad Girls,Donna Summer
+The Ghetto (Donny Hathaway song),1969,['Soul jazz'],7936,The Ghetto,Donny Hathaway
+Listen to the Music,1972,['Rock music'],26576,Listen to the Music,The Doobie Brothers
+Long Train Runnin',1973,['Country rock'],26834,Long Train Runnin',The Doobie Brothers
+Riders on the Storm,1971,['Psychedelic rock'],83688,Riders on the Storm,The Doors
+When You're in Love with a Beautiful Woman,1979,"['Middle of the road (music)', 'Country pop', 'Disco']",19811,When You're In Love With A Beautiful Woman,Dr. Hook
+Dschinghis Khan,0,[],79375,Dschinghis Khan,Dschinghis Khan
+Hotel California (Eagles album),0,['Rock music'],209498,Hotel California - 2013 Remaster,Eagles
+Take It Easy,1972,['Country rock'],103352,Take It Easy - 2013 Remaster,Eagles
+None,0,[],0,Desperado (2013 Remaster),Eagles
+"September (Earth, Wind & Fire song)",1978,"['Contemporary R&B', 'Disco', 'Funk', 'Soul music']",120408,September,"Earth, Wind & Fire"
+"Fantasy (Earth, Wind & Fire song)",1978,"['Rhythm and blues', 'Disco']",16951,Fantasy - Single Version,"Earth, Wind & Fire"
+Boogie Wonderland,1979,['Disco'],35723,Boogie Wonderland,Mr. Belt & Wezol
+War (The Temptations song),1970,['Psychedelic soul'],57329,War,Edwin Starr
+Last Train to London,1979,"['Disco', 'Progressive rock']",14387,Last Train to London,Electric Light Orchestra
+Can't Get It Out of My Head,1975,['Soft rock'],14631,Can't Get It out of My Head,Electric Light Orchestra
+Don't Bring Me Down,1979,['Pop rock'],84573,Don't Bring Me Down,Electric Light Orchestra
+Livin' Thing,1976,[],23573,Livin' Thing,Electric Light Orchestra
+Mr. Blue Sky,1978,"['Pop rock', 'Art rock', 'Progressive pop']",157037,Mr. Blue Sky,Electric Light Orchestra
+Sunshine After the Rain,1977,[],5600,Sunshine After The Rain,Elkie Brooks
+Crocodile Rock,0,"['Rock and roll', 'Glam rock', 'Pop rock']",81006,Crocodile Rock,Elton John
+Your Song,1970,"['Traditional pop', 'Soft rock']",231523,Your Song,Elton John
+Daniel (Elton John song),1973,['Soft rock'],106540,Daniel,Elton John
+Saturday Night's Alright for Fighting,1973,"['Glam rock', 'Hard rock', 'Proto-punk']",57480,Saturday Night’s Alright (For Fighting) - Remastered,Elton John
+Tiny Dancer,1972,['Pop music'],189501,Tiny Dancer,Elton John
+Sorry Seems to Be the Hardest Word,1976,[],53226,Sorry Seems To Be The Hardest Word,Elton John
+Don't Let the Sun Go Down on Me,1974,[],98665,Don't Let The Sun Go Down On Me,Elton John
+Goodbye Yellow Brick Road,0,"['Rock music', 'Pop rock', 'Glam rock']",298665,Goodbye Yellow Brick Road - Remastered 2014,Elton John
+Rocket Man (song),1972,['Soft rock'],329192,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John
+Pinball Wizard,1969,"['Hard rock', 'Power pop']",165158,Pinball Wizard,Elton John
+Bennie and the Jets,1974,['Glam rock'],204055,Bennie And The Jets - Remastered 2014,Elton John
+Don't Go Breaking My Heart,1976,"['Pop music', 'Soft rock']",137212,Don't Go Breaking My Heart,Elton John
+(I Don't Want to Go to) Chelsea,1978,['New wave'],7034,(I Don't Want To Go To) Chelsea,Elvis Costello & The Attractions
+Alison (song),1977,"['Pub Rock', 'New wave music']",17640,Alison,Elvis Costello
+Oliver's Army,1979,['New wave music'],53759,Oliver's Army,Elvis Costello & The Attractions
+Always on My Mind,0,[],199771,Always On My Mind,Elvis Presley
+"Lucky Man (Emerson, Lake & Palmer song)",1970,"['Folk rock', 'Progressive rock']",29689,Lucky Man - 2012 Remastered Version,"Emerson, Lake & Palmer"
+All by Myself,1975,['Soft rock'],121262,All By Myself - Single Edit,Eric Carmen
+Wonderful Tonight,1977,['Soft rock'],62348,Wonderful Tonight,Eric Clapton
+Lay Down Sally,1977,"['Roots rock', 'Country rock']",23606,Lay Down Sally,Eric Clapton
+None,0,[],0,Let It Grow,Eric Clapton
+Cocaine (song),1977,['Blues rock'],62133,Cocaine,Eric Clapton
+Bell Bottom Blues (Derek and the Dominos song),1971,['Blues rock'],18888,Bell Bottom Blues - 40th Anniversary Version / 2010 Remastered,Derek & The Dominos
+One Way Ticket (Neil Sedaka song),1959,['Pop music'],22157,One Way Ticket,Eruption
+The Chain,1977,"['Hard rock', 'Country rock', 'Folk rock']",116591,The Chain - 2004 Remaster,Fleetwood Mac
+Rhiannon (song),1976,"['Rock music', 'Soft rock']",70900,Rhiannon,Fleetwood Mac
+Dreams (Fleetwood Mac song),1977,['Soft rock'],89088,Dreams - 2004 Remaster,Fleetwood Mac
+Go Your Own Way,1976,['Rock music'],103165,Go Your Own Way - 2004 Remaster,Fleetwood Mac
+Don't Stop (Fleetwood Mac song),1977,['Rock music'],43888,Don't Stop - 2004 Remaster,Fleetwood Mac
+Cold as Ice (Foreigner song),1977,[],24321,Cold as Ice,Foreigner
+"December, 1963 (Oh, What a Night)",1975,"['Disco', 'Pop music']",107591,"December, 1963 (Oh What a Night!)",Frankie Valli & The Four Seasons
+Grease (song),1978,"['Funk rock', 'Disco']",49911,Grease - 2007 Remaster,Frankie Valli
+All Right Now,1970,"['Hard rock', 'Blues rock']",70441,All Right Now,Free
+None,0,[],0,One Nation Under a Groove (2015 Remaster - Album Version),Funkadelic
+Rock and Roll (Gary Glitter song),1972,['Glam rock'],35407,Rock & Roll Part 2,Gary Glitter
+Parisienne Walkways,1978,['Blues rock'],14703,Parisienne Walkways,Gary Moore
+Cars (song),1979,"['Synth-pop', 'New wave music']",58350,Cars,Gary Numan
+"Are ""Friends"" Electric?",1979,"['Synthpop', 'New wave music']",22101,Are 'Friends' Electric?,Gary Numan / Tubeway Army
+Follow You Follow Me,1978,['Soft rock'],27186,Follow You Follow Me - Remaster 2007,Genesis
+My Sweet Lord,1970,"['Folk rock', 'Gospel music']",152144,My Sweet Lord,George Harrison
+All Things Must Pass,0,"['Rock music', 'Folk rock']",186541,All Things Must Pass,George Harrison
+Rock Your Baby,1974,"['Disco', 'Memphis soul']",22841,Rock Your Baby,George McCrae
+Baker Street (song),1978,"['Jazz rock', 'Pop rock', 'Soft rock']",139429,Baker Street,Gerry Rafferty
+The Revolution Will Not Be Televised,1971,"['Funk', 'Spoken word']",78017,The Revolution Will Not Be Televised,Gil Scott-Heron
+Clair (song),1972,['Pop music'],20220,Clair,Gilbert O'Sullivan
+Alone Again (Naturally),1972,['Soft rock'],67243,Alone Again (Naturally),Gilbert O'Sullivan
+I Will Survive,1978,['Disco'],130643,I Will Survive - Single Version,Gloria Gaynor
+American Woman,1970,"['Blues rock', 'Hard rock', 'Psychedelic rock']",87929,American Woman,The Guess Who
+Aquarius/Let the Sunshine In,1969,"['Psychedelic soul', 'Sunshine pop']",97511,The Flesh Failures (Let the Sunshine In),Galt MacDermot
+Good Morning Starshine (Strawberry Alarm Clock album),0,"['Blues rock', 'Psychedelic pop', 'Psychedelic rock']",3579,Good Morning Starshine,Galt MacDermot
+Aquarius/Let the Sunshine In,1969,"['Psychedelic soul', 'Sunshine pop']",97511,Aquarius,Galt MacDermot
+Wake Up Everybody (song),1975,"['Contemporary R&B', 'Soul music']",12560,Wake up Everybody,Harold Melvin & The Blue Notes
+Without You (Badfinger song),1970,[],179075,Without You,Harry Nilsson
+Barracuda (song),1977,"['Rock music', 'Hard rock', 'Heavy metal music']",71598,Barracuda,Heart
+Boogie Nights (song),1977,['Disco'],15090,Boogie Nights,Heatwave
+The Air That I Breathe,1972,[],57692,The Air That I Breathe - 2008 Remaster,The Hollies
+Popcorn (instrumental),1969,['Synth-pop'],66723,Popcorn,Hot Butter
+You Sexy Thing,1975,"['Funk', 'Disco', 'Soul music']",48897,You Sexy Thing,Hot Chocolate
+Hit Me with Your Rhythm Stick,1978,"['Rock music', 'Post-punk', 'Disco']",23197,Hit Me With Your Rhythm Stick,Ian Dury
+The Passenger (song),1977,[],50212,The Passenger,Iggy Pop
+Lust for Life (Iggy Pop album),0,"['Hard rock', 'Punk rock']",61076,Lust For Life,Iggy Pop
+Walk On By (song),1964,[],42530,Walk On By,Isaac Hayes
+Theme from Shaft,1971,"['Soul music', 'Funk']",32726,"Theme From ""Shaft""",Isaac Hayes
+Never Can Say Goodbye,1971,['Soul music'],41656,Never Can Say Goodbye,The Jackson 5
+ABC (The Jackson 5 song),1970,"['Soul music', 'R&B', 'Bubblegum pop', 'Disco']",42740,ABC,The Jackson 5
+Blame It on the Boogie,1978,['Disco'],42610,Blame It on the Boogie,The Jacksons
+I'll Be There (The Jackson 5 song),1970,['Soul music'],69248,I'll Be There,The Jackson 5
+None,0,[],0,The Boss,James Brown
+Get Up (I Feel Like Being a) Sex Machine,1970,['Funk'],27405,Get Up I Feel Like Being Like A Sex Machine - Pts. 1 & 2,James Brown
+You've Got a Friend,1971,['Soft rock'],89436,You've Got a Friend,James Taylor
+Fire and Rain (song),1970,"['Soft rock', 'Folk rock']",68997,Fire and Rain,James Taylor
+At Seventeen,1975,['Soft rock'],40156,At Seventeen - Remastered,Janis Ian
+Me and Bobby McGee,1969,['Country music'],132119,Me and Bobby McGee,Janis Joplin
+Cry Baby (Garnet Mimms song),1963,['Soul blues'],12216,Cry Baby,Janis Joplin
+None,0,[],0,Coupable,Jean-François Michaël
+None,0,[],0,"Oxygene, Pt. 4",Jean-Michel Jarre
+Porque te vas,1974,"['Pop music', 'Canción melódica']",22123,Porqué Te Vas?,Jeanette
+Aqualung (Jethro Tull album),0,"['Progressive rock', 'Folk rock', 'Hard rock']",106882,Aqualung,Jethro Tull
+Angel (Jimi Hendrix song),1971,['Rock music'],12320,Angel,Jimi Hendrix
+Many Rivers to Cross,1969,['Reggae'],22349,Many Rivers To Cross,Jimmy Cliff
+You Are So Beautiful,1974,"['Pop music', 'Soul music']",70687,You Are So Beautiful,Joe Cocker
+L'Été indien,1975,['Pop music'],5996,L'été indien,Joe Dassin
+None,0,[],0,I Keep A Close Watch,John Cale
+"Take Me Home, Country Roads",1971,['Country music'],326564,"Take Me Home, Country Roads - Rerecorded",John Denver
+Jealous Guy,1985,"['Soft rock', 'Pop music']",50661,Jealous Guy - Remastered 2010,John Lennon
+Working Class Hero,1975,['Folk music'],43816,Working Class Hero,John Lennon
+Oh My Love,1971,['Rock music'],11439,Oh My Love - Remastered 2010,John Lennon
+None,0,[],0,#9 Dream,Sweet Little Band
+Imagine (John Lennon song),1971,"['Soft rock', 'Pop music']",247137,Imagine - Remastered,John Lennon
+Love (John Lennon song),1970,['Soft rock'],11440,Love - Remastered 2010,John Lennon
+Instant Karma!,1970,['Rock music'],47687,Instant Karma! (We All Shine On),John Lennon
+Stand by Me (Ben E. King song),1961,"['Rhythm and blues', 'Soul music']",167859,Stand By Me - Remastered,John Lennon
+Happy Xmas (War Is Over),1971,"['Rock music', 'Christmas music']",45583,Happy Xmas (War Is Over) - Remastered,John Lennon
+Love Is in the Air (song),1977,['Disco music'],38817,Love Is In The Air,John Paul Young
+I Can See Clearly Now,1972,['Reggae'],101368,I Can See Clearly Now - Edit,Johnny Nash
+Blue (Joni Mitchell album),0,"['Folk rock', 'Pop music']",102096,Blue,Joni Mitchell
+Help Me (Joni Mitchell song),1974,"['Folk jazz', 'Soft rock']",15419,Help Me,Joni Mitchell
+Big Yellow Taxi,1970,"['Folk rock', 'Pop music', 'Folk music']",122704,Big Yellow Taxi,Joni Mitchell
+Transmission (song),1979,['Post-punk'],21612,Transmission,Joy Division
+Forever Autumn (song),1978,[],13938,Forever Autumn,Justin Hayward
+That's the Way (I Like It),1975,"['Disco', 'Funk']",34151,That's the Way (I Like It),KC & The Sunshine Band
+Carry On Wayward Son,1976,"['Progressive rock', 'Hard rock']",74280,Carry On Wayward Son,Kansas
+Dust in the Wind,1978,['Soft rock'],74141,Dust in the Wind,Kansas
+Wuthering Heights (song),1978,"['Art pop', 'Art rock']",80120,Wuthering Heights,Kate Bush
+The Man with the Child in His Eyes,1978,['Progressive pop'],16909,The Man with the Child in His Eyes,Kate Bush
+Just Dropped In (To See What Condition My Condition Was In),0,['Psychedelic pop'],61166,Just Dropped In,Kenny Rogers
+Lola (song),1970,"['Rock music', 'Folk rock']",147083,Lola - Remastered,The Kinks
+My Sharona,1979,"['Power pop', 'New wave music']",128443,My Sharona,The Knack
+Jungle Boogie,1973,['Funk'],27328,Jungle Boogie,Kool & The Gang
+The Robots,1978,"['Electronic music', 'Synthpop']",13454,The Robots - 2009 Remastered Version,Kraftwerk
+Lady Marmalade,1974,"['Soul music', 'Disco']",270198,Lady Marmalade,LaBelle
+D'yer Mak'er,1973,['Reggae rock'],44864,D'yer Mak'er - Remastered,Led Zeppelin
+Since I've Been Loving You,1970,['Blues rock'],21991,Since I've Been Loving You - 1990 Remaster,Led Zeppelin
+All My Love (Led Zeppelin song),1979,['Rock music'],44202,All My Love - Remastered,Led Zeppelin
+Rock and Roll (Led Zeppelin song),1972,"['Rock and roll', 'Hard rock']",30485,Rock and Roll - Remaster,Led Zeppelin
+Black Dog (song),1971,"['Hard rock', 'Blues rock']",45386,Black Dog - Remaster,Led Zeppelin
+Kashmir (song),1975,"['Hard rock', 'Progressive rock']",100853,Kashmir - 2012 Remaster,Led Zeppelin
+Stairway to Heaven,1971,"['Progressive rock', 'Folk rock', 'Hard rock']",286988,Stairway to Heaven - Remaster,Led Zeppelin
+Immigrant Song,1970,"['Hard rock', 'Viking metal']",140858,Immigrant Song - Remaster,Led Zeppelin
+You Make Me Feel Like Dancing,1976,"['Disco', 'Pop music', 'Contemporary R&B']",22651,You Make Me Feel Like Dancing,Leo Sayer
+When I Need You,1977,['Soft rock'],33965,When I Need You,Leo Sayer
+A Song for You,1970,['Vocal music'],105649,A Song For You,Leon Russell
+Hotel Chelsea,0,[],132985,Chelsea Hotel No. 2,Rufus Wainwright
+None,0,[],0,Lover Lover Lover,Leonard Cohen
+Famous Blue Raincoat,1971,['Folk music'],36411,Famous Blue Raincoat,Leonard Cohen
+None,0,[],0,Who by Fire,Leonard Cohen
+None,0,[],0,You Are My Love,Liverpool Express
+Perfect Day (Lou Reed song),1972,"['Baroque pop', 'Art pop', 'Pop rock']",69474,Perfect Day,Lou Reed
+Walk on the Wild Side (Lou Reed song),1972,['Glam rock'],99154,Walk On the Wild Side,Lou Reed
+Satellite of Love,1973,[],20969,Satellite of Love,Lou Reed
+Free Bird,1973,"['Southern rock', 'Hard rock']",155878,Free Bird,Lynyrd Skynyrd
+Sweet Home Alabama,1974,"['Country rock', 'Southern rock']",292884,Sweet Home Alabama,Lynyrd Skynyrd
+My Girl (Madness song),1979,"['Ska', '2 Tone Records']",11402,My Girl,Madness
+One Step Beyond...,0,"['Ska', 'Pop music', '2 Tone (music genre)']",27402,One Step Beyond,Madness
+Night Boat to Cairo,1979,"['Ska', 'Pop music', '2 Tone (music genre)']",8495,Night Boat To Cairo,Madness
+L'oiseau et l'enfant,0,[],7740,L'oiseau et l'enfant,Marie Myriam
+Reflections of My Life,1969,['Psychedelic pop'],33200,Reflections Of My Life - Original recording,Marmalade
+Mercy Mercy Me (The Ecology),1971,['Soul music'],33913,Mercy Mercy Me (The Ecology),Marvin Gaye
+Let's Get It On,0,"['Soul music', 'Funk']",68904,Let's Get It On,Marvin Gaye
+What's Going On (Marvin Gaye album),0,['Soul music'],132514,What's Going On,Marvin Gaye
+I Want You (Marvin Gaye album),0,"['Soul music', 'Funk', 'Quiet storm', 'Jazz-funk']",41164,I Want You,Marvin Gaye
+As the Years Go By,1970,['Progressive rock'],2590,As The Years Go By,Mashmakhan
+Woodstock (song),1970,['Folk jazz'],51448,Woodstock,Matthews' Southern Comfort
+Chase the Devil,1976,['Reggae'],14650,Chase The Devil,Max Romeo
+Ain't No Stoppin' Us Now,1979,"['Funk', 'Disco']",17018,Ain't No Stoppin' Us Now,McFadden & Whitehead
+Don't Stop 'Til You Get Enough,1979,"['Disco', 'Funk']",62575,Don't Stop 'Til You Get Enough - Single Version,Michael Jackson
+Ben (Michael Jackson album),0,"['Rhythm and blues', 'Soul music']",63359,Ben - Single Version,Michael Jackson
+Rock with You,1979,"['Disco', 'Contemporary R&B']",49728,Rock with You - Single Version,Michael Jackson
+Off the Wall,0,"['Disco', 'Pop music', 'Funk music', 'R&B']",244918,Off the Wall,Michael Jackson
+Let's All Chant,1977,['Disco'],11005,Let's All Chant,The Michael Zager Band
+Chirpy Chirpy Cheep Cheep,1970,[],29527,Chirpy Chirpy Cheep Cheep,Middle Of The Road
+None,0,[],0,Laisse moi t'aimer,Mike Brant
+None,0,[],0,Mais dans la lumière,Mike Brant
+Lovin' You,1975,"['Soul music', 'Pop music']",73963,Lovin' You,Minnie Riperton
+Eres tú,1973,['Canción melódica'],23320,Eres Tú,Mocedades
+Always Look on the Bright Side of Life,1991,['Comedy music'],86358,Always Look On The Bright Side Of Life,Monty Python
+Airport (song),1978,"['Power pop', 'New wave music']",5268,Airport,The Motors
+All the Young Dudes,1972,['Glam rock'],100782,All the Young Dudes,Mott The Hoople
+In the Summertime,1970,['Skiffle'],59782,In the Summertime,Mungo Jerry
+Love Hurts,1961,['Country music'],99006,Love Hurts - Single Edit,Nazareth
+Old Man (song),1972,"['Folk rock', 'Country rock']",37209,Old Man - 2009 Remaster,Neil Young
+Heart of Gold (Neil Young song),1972,"['Folk rock', 'Country rock']",43922,Heart of Gold,Neil Young
+Only Love Can Break Your Heart,1970,['Folk rock'],21484,Only Love Can Break Your Heart,Neil Young
+Like a Hurricane (Neil Young song),1977,['Rock music'],14421,Like a Hurricane - 2003 Remaster,Neil Young
+"My My, Hey Hey (Out of the Blue)",1979,['Acoustic music'],16640,"My My, Hey Hey (Out of the Blue) - 2016 Remaster",Neil Young
+The Needle and the Damage Done,1972,"['Folk music', 'Rock music']",22208,The Needle and the Damage Done,Neil Young
+Northern Sky,1971,['Folk music'],7766,Northern Sky,Nick Drake
+For the Love of Money,1974,"['R&B', 'Philadelphia soul', 'Funk']",23527,For the Love of Money,The O'Jays
+Love Train,1972,"['Rhythm and blues', 'Philadelphia soul', 'Disco']",28950,Love Train,The O'Jays
+Hopelessly Devoted to You,1978,[],25629,Hopelessly Devoted To You - From “Grease”,Olivia Newton-John
+D.I.S.C.O.,1979,['Disco'],14231,D.I.S.C.O.,N-Trance
+I Think I Love You,1970,"['Pop music', 'Baroque pop']",24081,I Think I Love You,The Partridge Family
+Born to Be Alive,0,[],26098,Born to Be Alive - Original Mix 79,Patrick Hernandez
+Dancing Barefoot,1979,[],11073,Dancing Barefoot,Patti Smith
+Gloria (Them song),1964,"['Garage rock', 'British rhythm and blues']",117641,Gloria,Patti Smith
+Because the Night,1978,['New wave music'],132111,Because the Night,Patti Smith
+Mull of Kintyre (song),1977,['Scottish folk music'],77914,Mull Of Kintyre,Wings
+Silly Love Songs,1976,"['Disco', 'Funk']",37880,Silly Love Songs,Wings
+My Love (Paul McCartney and Wings song),1973,['Lounge music'],23260,My Love,Wings
+Jet (song),1974,['Power pop'],42069,Jet,Paul McCartney
+Band on the Run (song),1974,"['Folk rock', 'Funk rock']",43325,Band On The Run,Paul McCartney
+None,0,[],0,Maybe I'm Amazed,Twinkle Twinkle Little Rock Star
+Live and Let Die (song),1973,['Symphonic rock'],111005,Live And Let Die,Paul McCartney
+Still Crazy After All These Years,0,"['Folk rock', 'Pop rock', 'Soul music']",83673,Still Crazy After All These Years,Paul Simon
+Me and Julio Down by the Schoolyard,1972,"['Pop rock', 'Folk rock']",79153,Me and Julio Down by the Schoolyard,Paul Simon
+50 Ways to Leave Your Lover,1975,"['Soft rock', 'Folk rock']",39903,50 Ways to Leave Your Lover,Paul Simon
+Slip Slidin' Away,1977,"['Soft rock', 'Folk rock', 'Country pop']",13162,Slip Slidin' Away,Paul Simon
+Mother and Child Reunion,1972,"['Pop rock', 'Reggae']",24133,Mother and Child Reunion,Paul Simon
+Show Me the Way (Peter Frampton song),1975,['Rock music'],25116,Show Me The Way,Peter Frampton
+"Baby, I Love Your Way",1975,['Soft rock'],83982,"Baby, I Love Your Way",Peter Frampton
+Solsbury Hill (song),United,"['Folk pop', 'Progressive pop']",102769,Solsbury Hill,Peter Gabriel
+Magic (Pilot song),1974,"['Pop rock', 'Power pop', 'Glam rock']",52557,Magic,Pilot
+Have a Cigar,1975,"['Progressive rock', 'Blues rock']",50573,Have a Cigar,Pink Floyd
+Wish You Were Here (Pink Floyd album),0,"['Progressive rock', 'Art rock', 'Experimental rock']",366790,Wish You Were Here,Pink Floyd
+Money (Pink Floyd song),1973,"['Progressive rock', 'Psychedelic rock', 'Experimental rock', 'Blues rock', 'Hard rock']",61713,Money,Pink Floyd
+Us and Them (song),1974,"['Progressive rock', 'Jazz fusion']",38667,Us and Them,Pink Floyd
+Time (Pink Floyd song),1974,['Progressive rock'],50472,Time,Pink Floyd
+None,0,[],0,Shine on You Crazy Diamond,Pink Floyd Redux
+The Great Gig in the Sky,1973,['Progressive rock'],72169,The Great Gig in the Sky,Pink Floyd
+Roxanne (song),1978,"['Reggae rock', 'New wave music']",76510,Roxanne,The Police
+So Lonely,1978,"['Reggae rock', 'New wave music']",15021,So Lonely,The Police
+None,0,[],0,Message In A Bottle,The Police
+Walking on the Moon,1979,"['Reggae rock', 'New wave music']",23999,Walking On The Moon,The Police
+Can't Stand Losing You,1978,"['Reggae rock', 'New wave music']",15962,Can't Stand Losing You,The Police
+Brass in Pocket,1979,['New wave music'],24204,Brass in Pocket,Pretenders
+I Wanna Be Your Lover,1979,"['Funk', 'Post-disco']",22554,I Wanna Be Your Lover,Prince
+Bohemian Rhapsody,1975,"['Progressive rock', 'Hard rock', 'Progressive pop']",1970738,Bohemian Rhapsody - Remastered 2011,Queen
+Bicycle Race,1978,['Rock music'],373049,Bicycle Race - Remastered 2011,Queen
+Killer Queen,1974,"['Art pop', 'Glam rock', 'Power pop']",244957,Killer Queen,Queen
+Fat Bottomed Girls,1978,"['Glam rock', 'Hard rock']",184127,Fat Bottomed Girls - 2011 Remaster,Queen
+We Are the Champions,1977,['Arena rock'],296916,We Are The Champions - Remastered 2011,Queen
+You're My Best Friend (Queen song),1976,['Pop music'],135245,You're My Best Friend - Remastered 2011,Queen
+Love of My Life (Queen song),1975,['Pop music'],284504,Love Of My Life - Live,Queen
+We Will Rock You,1977,['Arena rock'],359196,We Will Rock You - Remastered,Queen
+Somebody to Love (Queen song),1976,['Rock music'],170824,Somebody To Love - Remastered 2011,Queen
+Don't Stop Me Now,1979,"['Power pop', 'Pop rock']",263309,Don't Stop Me Now - Remastered,Queen
+Black Betty,1939,['Work song'],200998,Black Betty,Ram Jam
+I Wanna Be Sedated,1978,['Punk rock'],31169,I Wanna Be Sedated - 2002 Remaster,Ramones
+Blitzkrieg Bop,1976,"['Punk rock', 'Pop punk']",69904,Blitzkrieg Bop,Ramones
+Short People,1977,"['Comedy rock', 'Pop rock']",62920,Short People,Randy Newman
+Get Ready (Rare Earth album),0,"['Psychedelic soul', 'Blues rock']",15694,Get Ready - Single Version,Rare Earth
+We're All Alone,1976,[],24680,We're All Alone,Rita Coolidge
+None,0,[],0,Sea Song,Robert Wyatt
+The First Time Ever I Saw Your Face,1972,"['Soul music', 'Vocal jazz']",87328,The First Time Ever I Saw Your Face,Roberta Flack
+Killing Me Softly with His Song,1973,['Soul music'],405106,Killing Me Softly with His Song,Roberta Flack
+None,0,[],0,The Time Warp,Reeve Carney
+You're in My Heart (The Final Acclaim),1977,['Pop rock'],15268,You're in My Heart (The Final Acclaim),Rod Stewart
+Da Ya Think I'm Sexy?,1978,['Disco'],69169,Da Ya Think I'm Sexy?,Rod Stewart
+Sailing (Sutherland Brothers song),1972,[],24603,Sailing,Rod Stewart
+I Don't Want to Talk About It,1971,['Country rock'],51813,I Don't Want to Talk About It - 1989 Version,Rod Stewart
+Maggie May,1971,['Folk rock'],72614,Maggie May,Rod Stewart
+In a Broken Dream,1970,['Rock music'],12005,In a Broken Dream,Rod Stewart
+Wild Horses (The Rolling Stones song),1971,['Country rock'],103076,Wild Horses,The Rolling Stones
+Brown Sugar (The Rolling Stones song),1971,"['Hard rock', 'Rock and roll', 'Blues rock', 'Boogie rock']",80461,Brown Sugar - Remastered,The Rolling Stones
+Miss You (The Rolling Stones song),1978,"['Disco', 'Soul music']",43137,Miss You - Remastered,The Rolling Stones
+Angie (song),1973,"['Soft rock', 'Glam rock']",55752,Angie,The Rolling Stones
+Wishing on a Star,1978,"['Soul music', 'Rhythm and blues']",24112,Wishing on a Star,Rose Royce
+None,0,[],0,Love Don't Live Here Anymore,Joe Cocker
+None,0,[],0,I Am The Black Gold Of The Sun,Rotary Connection
+Love Is the Drug,1975,"['Progressive pop', 'Funk']",25763,Love Is The Drug,Roxy Music
+Everybody Loves the Sunshine,0,"['Rhythm and blues', 'Soul music', 'Jazz']",13800,Everybody Loves The Sunshine,Roy Ayers Ubiquity
+Escape (The Piña Colada Song),1979,['Soft rock'],140322,Escape (The Pina Colada Song),Rupert Holmes
+Black Magic Woman,1968,['Blues rock'],111196,Black Magic Woman,Santana
+Oye Como Va,0,[],79551,Oye Como Va,Santana
+Histoire de Melody Nelson,0,"['Rock music', 'Avant-funk']",21976,Ballade de Melody Nelson,Serge Gainsbourg
+Anarchy in the U.K.,1976,"['Punk rock', 'Anarcho-punk']",42389,Anarchy in the U.K.,Sex Pistols
+Diamonds Are Forever (soundtrack),0,[],13666,Diamonds Are Forever,Shirley Bassey
+El Cóndor Pasa (song),0,[],66443,El Condor Pasa (If I Could),Simon & Garfunkel
+The Boxer,1969,['Folk rock'],74521,The Boxer,Simon & Garfunkel
+Cecilia (Simon & Garfunkel song),1970,"['Pop rock', 'Folk rock']",32649,Cecilia,Simon & Garfunkel
+Bridge over Troubled Water,0,['Folk rock'],101925,Bridge Over Troubled Water,Simon & Garfunkel
+We Are Family (song),1979,"['Rhythm and blues', 'Disco', 'Soul music']",47837,We Are Family,Sister Sledge
+Lost in Music,1979,"['Disco', 'Funk', 'Soul music', 'R&B']",8950,Lost in Music,Sister Sledge
+Sugar Man (song),1970,[],12008,Sugar Man,Rodríguez
+Family Affair (Sly and the Family Stone song),1971,['Funk'],14011,Family Affair,Sly & The Family Stone
+The Tears of a Clown,1970,['Soul music'],34087,The Tears Of A Clown,Smokey Robinson & The Miracles
+Living Next Door to Alice,1972,"['Pop music', 'Folk music']",75186,Living Next Door to Alice,Smokie
+I'll Meet You at Midnight,1976,[],5172,I'll Meet You at Midnight,Smokie
+Driver's Seat,1978,['New wave music'],18054,Driver's Seat,Sniff 'n' The Tears
+A Message to You Rudy,1979,"['Rocksteady', 'Ska', '2 Tone (music genre)']",1020,A Message to You Rudy - 2002 Remaster,The Specials
+Stuck in the Middle with You,1973,"['Folk rock', 'Soft rock']",107626,Stuck In The Middle With You,Stealers Wheel
+Peg (song),1977,"['Yacht rock', 'Jazz fusion']",38139,Peg,Steely Dan
+Do It Again (Steely Dan song),1972,"['Soft rock', 'Funk rock']",41932,Do It Again,Steely Dan
+Make Me Smile (Come Up and See Me),1975,['Glam rock'],30689,Make Me Smile (Come up and See Me),Steve Harley
+None,0,[],0,Serenade,Steve Miller Band
+The Joker (Steve Miller Band song),1973,"['Rock music', 'Blues rock', 'Southern rock']",50633,The Joker,Steve Miller Band
+Fly Like an Eagle (album),0,"['Rock music', 'Psychedelic rock', 'Space rock', 'Blues']",39879,Fly Like An Eagle,Steve Miller Band
+Isn't She Lovely,1976,['Soul music'],64598,Isn't She Lovely,Stevie Wonder
+You Are the Sunshine of My Life,1973,"['Soul music', 'Pop music']",36003,You Are The Sunshine Of My Life,Stevie Wonder
+Living for the City,1973,['Soul music'],19840,Living For The City,Stevie Wonder
+Don't You Worry 'bout a Thing,1974,['Latin soul'],43765,Don't You Worry 'Bout A Thing,Stevie Wonder
+"Signed, Sealed, Delivered I'm Yours",1970,['Soul music'],37967,"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder
+Sir Duke,1977,"['Funk', 'Rhythm and blues', 'Pop music']",40468,Sir Duke,Stevie Wonder
+Sir Duke,1977,"['Funk', 'Rhythm and blues', 'Pop music']",40468,Sir Duke,Stevie Wonder
+Faith (Stevie Wonder song),2016,[],27238,As,Stevie Wonder
+Another Star,1977,"['Rhythm and blues', 'Disco', 'Jazz']",8966,Another Star,Stevie Wonder
+Pastime Paradise,1976,"['Soul music', 'Pop music']",36607,Pastime Paradise,Stevie Wonder
+Higher Ground (Stevie Wonder song),1973,['Funk'],42501,Higher Ground,Stevie Wonder
+No More Heroes (The Stranglers song),1977,[],10333,No More Heroes,The Stranglers
+Rapper's Delight,1979,"['Old-school hip hop', 'Disco', 'Funk']",134352,Rapper's Delight,The Sugarhill Gang
+The Logical Song,1979,['Progressive pop'],53211,The Logical Song,Supertramp
+Breakfast in America,0,"['Pop music', 'Art rock', 'Soft rock']",132062,Breakfast In America,Supertramp
+The Ballroom Blitz,1973,"['Glam rock', 'Hard rock']",82976,The Ballroom Blitz,Sweet
+You Make Me Feel (Mighty Real),1978,"['Disco music', 'Hi-NRG']",24547,You Make Me Feel (Mighty Real),Sylvester
+Children of the Revolution (song),1972,['Glam rock'],21490,Children of the Revolution - 2012 Remaster,T. Rex
+Get It On (T. Rex song),1971,"['Glam rock', 'Boogie rock']",52167,Get It On,T. Rex
+None,0,[],0,Ding-A-Dong,Teach In
+Marquee Moon,0,"['Post-punk', 'Rock music', 'Art punk']",59283,Marquee Moon,Television
+Papa Was a Rollin' Stone,1972,[],72177,Papa Was A Rolling Stone,The Temptations
+Seasons in the Sun,1961,['Chanson'],119382,Seasons in the Sun,Terry Jacks
+Don't Leave Me This Way,1975,"['Disco', 'Soul music', 'Rhythm and blues']",77600,Don't Leave Me This Way,Thelma Houston
+Whiskey in the Jar,0,[],170914,Whiskey In The Jar,Thin Lizzy
+The Boys Are Back in Town,1976,"['Hard rock', 'Blues rock']",69807,The Boys Are Back In Town,Thin Lizzy
+I Love to Love (But My Baby Loves to Dance),1986,"['Disco', 'Pop music']",19675,I Love to Love,Tina Charles
+None,0,[],0,I Hope That I Don't Fall In Love With You,Tom Waits
+Hold the Line,1978,"['Hard rock', 'Yacht rock']",66183,Hold the Line,Toto
+Disco Inferno,1976,"['Disco', 'Funk']",45630,Disco Inferno,The Trammps
+Teenage Kicks,0,"['Punk rock', 'Pop punk', 'Power pop']",25427,Teenage Kicks,The Undertones
+Ain't Talkin' 'bout Love,1978,"['Hard rock', 'Heavy metal music']",16670,Ain't Talkin' 'Bout Love,Van Halen
+Moondance (Van Morrison song),0,"['Soft rock', 'Jazz rock']",18594,Moondance,Van Morrison
+Sweet Jane,1973,['Proto-punk'],37376,Sweet Jane,The Velvet Underground
+In the Navy,1979,['Disco'],28340,In the Navy - Original Version 1979,Village People
+Y.M.C.A. (song),1978,['Disco'],256016,Y.M.C.A.,Village People
+Low Rider,1975,"['Funk', 'Latin soul']",61647,Low Rider,War
+None,0,[],0,When You Are a King,White Plains
+Baba O'Riley,1971,['Hard rock'],173725,Baba O'Riley,The Who
+Behind Blue Eyes,1971,"['Hard rock', 'Folk rock']",87648,Behind Blue Eyes,The Who
+Play That Funky Music,1976,['Funk rock'],93311,Play That Funky Music,Wild Cherry
+None,0,[],0,Blood Is Thicker Than Water,William DeVaughn
+Making Plans for Nigel,1979,[],54533,Making Plans For Nigel,XTC
+If I Can't Have You (Bee Gees song),1977,['Disco'],16433,If I Can't Have You,Yvonne Elliman

@@ -1,0 +1,498 @@
+name,artist,artist_first_letter,artist_songs_ratio,year,song_popularity,artist_popularity,duration_ms,key,time_signature,acousticness,danceability,energy,instrumentalness,loudness,speechiness,valence,tempo,genres,views,old_chart_position,new_chart_location
+seventies_I'm Not In Love,10cc,1,0.004024145,1975,69,67,366640,4,4,0.748,0.401,0.527,0.00305,-15.632,0.0615,0.208,133.749,['Soft rock'],95326,0,54
+seventies_Dreadlock Holiday,10cc,1,0.004024145,1979,66,67,267946,7,4,0.555,0.84,0.391,0.0109,-13.263,0.0581,0.871,105.014,['Reggae'],36181,7,0
+seventies_Take A Chance On Me,ABBA,A,0.020120724,1978,65,81,243933,11,4,0.163,0.684,0.675,0,-8.123,0.0257,0.924,107.064,"['Europop', 'Disco']",32133,0,59
+seventies_Chiquitita,ABBA,A,0.020120724,1979,61,81,326320,9,4,0.715,0.531,0.546,5.92E-06,-7.978,0.0332,0.392,84.286,"['Pop music', 'Europop']",46955,0,52
+"seventies_Money, Money, Money",ABBA,A,0.020120724,1977,56,81,186786,9,4,0.43,0.756,0.741,0.00113,-6.426,0.0364,0.691,120.445,['Baroque pop'],41443,8,35
+seventies_Waterloo,ABBA,A,0.020120724,1974,63,81,168960,2,4,0.395,0.445,0.949,8.18E-06,-4.682,0.0471,0.653,147.604,['Europop'],70785,0,31
+seventies_Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,A,0.020120724,1979,70,81,292613,10,4,0.0261,0.748,0.499,0.00627,-9.653,0.0407,0.568,119.528,['Disco'],60035,0,19
+seventies_Dancing Queen,ABBA,A,0.020120724,1976,74,81,230400,9,4,0.358,0.543,0.87,0.000939,-6.514,0.0428,0.754,100.804,"['Disco', 'Europop', 'Euro disco']",129165,0,6
+seventies_Mamma Mia,ABBA,A,0.020120724,1975,70,81,213266,2,4,0.295,0.749,0.748,0.000443,-7.011,0.0323,0.827,137.547,"['Europop', 'Pop rock']",10273,0,4
+seventies_Voulez-Vous,ABBA,A,0.020120724,1979,60,81,309173,0,4,0.162,0.71,0.784,0.000623,-6.865,0.0416,0.901,126.656,[],59763,0,0
+seventies_Fernando,ABBA,A,0.020120724,1976,60,81,252960,9,4,0.627,0.354,0.535,2.90E-06,-8.876,0.0303,0.434,110.821,['Europop'],74561,0,0
+"seventies_Knowing Me, Knowing You",ABBA,A,0.020120724,1977,61,81,241920,2,4,0.0399,0.546,0.733,1.11E-06,-7.073,0.0299,0.91,107.285,['Europop'],24277,0,0
+seventies_Sos,ABBAdance,A,0.002012072,2000,29,21,190984,0,4,0.0522,0.704,0.944,0.0298,-5.138,0.0332,0.705,137.992,[],0,0,57
+seventies_Highway to Hell,AC/DC,A,0.002012072,1979,82,86,208400,6,4,0.0591,0.573,0.913,0.00173,-4.793,0.132,0.422,115.715,['Hard rock'],45645,0,21
+seventies_Dream On,Aerosmith,A,0.002012072,1973,76,80,266960,1,4,0.388,0.307,0.433,9.08E-05,-10.057,0.029,0.224,160.9,"['Hard rock', 'Blues rock']",138199,0,11
+seventies_Ramaya,Afric Simone,A,0.002012072,1976,37,33,190826,8,4,0.469,0.694,0.96,0.0102,-2.63,0.0901,0.97,112.434,[],4154,26,0
+seventies_Let's Stay Together,Al Green,A,0.004024145,1971,73,71,199396,7,4,0.57,0.756,0.397,0.0115,-10.701,0.0522,0.507,101.985,['Soul music'],40507,0,0
+seventies_Love and Happiness,Al Green,A,0.004024145,1977,61,71,307062,6,4,0.214,0.822,0.457,0.000397,-10.937,0.235,0.73,99.16,"['Soul music', 'R&B']",12268,0,0
+seventies_Year of the Cat,Al Stewart,A,0.002012072,2018,20,55,401400,4,4,0.0114,0.531,0.607,0.00511,-9.602,0.0328,0.534,116.652,"['Rock (music)', 'Soft rock', 'Progressive pop']",40915,0,76
+seventies_School's Out,Alice Cooper,A,0.002012072,1972,64,68,210106,5,4,0.05,0.294,0.745,0.125,-9.138,0.0461,0.347,134.364,['Hard rock'],44527,0,0
+seventies_A Horse with No Name,America,A,0.006036217,1971,75,72,252239,11,4,0.686,0.654,0.506,0.0155,-17.18,0.0535,0.831,123.179,"['Folk rock', 'Soft rock']",140314,0,38
+seventies_Ventura Highway,America,A,0.006036217,1972,69,72,211386,2,4,0.223,0.673,0.581,0.000206,-10.205,0.029,0.818,130.771,"['Soft rock', 'Folk rock']",49006,0,0
+seventies_Sister Golden Hair,America,A,0.006036217,1975,65,72,199573,4,4,0.13,0.441,0.547,0.000143,-12.222,0.0337,0.716,134.753,"['Folk rock', 'Soft rock']",38694,14,0
+seventies_Knock On Wood,Amii Stewart,A,0.002012072,1966,56,51,250520,2,4,0.0019,0.689,0.805,8.23E-05,-11.199,0.0429,0.914,140.791,['Soul music'],35423,0,0
+seventies_Where Do I Begin,Andy Williams,A,0.002012072,1971,51,62,189066,6,4,0.512,0.259,0.473,1.50E-06,-10.187,0.0324,0.232,84.897,['Easy listening'],142482,0,0
+seventies_Ring My Bell,Anita Ward,A,0.002012072,1979,58,51,491933,5,4,0.0661,0.781,0.556,0.0907,-13.067,0.0611,0.968,125.999,['Disco'],45285,0,0
+seventies_Tu te reconnaitras,Anne-Marie David,A,0.002012072,1973,33,28,159013,3,3,0.651,0.544,0.669,1.35E-06,-4.314,0.0283,0.462,100.473,[],6341,0,89
+seventies_Son of a Preacher Man,Aretha Franklin,A,0.004024145,1968,62,76,199266,2,4,0.545,0.474,0.473,1.25E-06,-11.454,0.0601,0.561,77.583,"['Blue-eyed soul', 'Rhythm and blues']",74018,0,44
+seventies_Rock Steady,Aretha Franklin,A,0.004024145,1971,54,76,193573,7,4,0.0108,0.749,0.752,0.0954,-10.3,0.126,0.887,104.7,['Funk'],9863,0,0
+seventies_Bright Eyes,Art Garfunkel,A,0.002012072,1979,52,52,238600,7,4,0.745,0.38,0.21,0.45,-15.603,0.0319,0.207,112.51,['Pop ballad'],28639,0,0
+"seventies_Yes Sir, I Can Boogie",Baccara,B,0.004024145,1977,55,52,273866,2,4,0.127,0.454,0.769,3.29E-06,-7.653,0.0815,0.49,122.536,"['Disco', 'Euro disco']",28785,3,30
+"seventies_Yummy, Yummy, Yummy",Baccara,B,0.004024145,1968,17,52,214773,0,4,0.00761,0.564,0.889,2.54E-05,-5.876,0.0552,0.819,125.831,['Bubblegum pop'],27789,0,0
+seventies_You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,B,0.002012072,1974,41,63,210080,11,4,4.05E-05,0.461,0.549,0.00616,-10.64,0.041,0.632,118.592,['Rock music'],24299,0,0
+seventies_No More Tears (Enough Is Enough) (feat. Donna Summer),Barbra Streisand,B,0.002012072,2002,45,68,282493,2,4,0.51,0.634,0.644,7.09E-05,-8.234,0.0838,0.286,135.24,[],0,0,0
+seventies_Mandy,Barry Manilow,B,0.004024145,1975,66,66,213333,10,4,0.418,0.308,0.464,2.49E-06,-9.032,0.0279,0.318,103.734,['Pop music'],19228,9,98
+seventies_Copacabana (At the Copa),Barry Manilow,B,0.004024145,1978,58,66,236760,7,4,0.333,0.606,0.899,0.000102,-6.412,0.0758,0.66,116.735,['Disco'],65642,0,36
+"seventies_You're The First, The Last, My Everything",Barry White,B,0.004024145,1974,59,69,208933,5,4,0.00367,0.631,0.59,0.00299,-12.138,0.0297,0.927,130.145,"['R&B', 'Disco']",21924,0,77
+"seventies_Can't Get Enough Of Your Love, Babe",Barry White,B,0.004024145,1974,64,69,274000,5,4,0.114,0.729,0.78,0.106,-7.604,0.0631,0.795,111.833,"['Disco music', 'Soul music']",25404,0,0
+seventies_I Only Want to Be with You,Bay City Rollers,B,0.002012072,1963,25,52,217466,2,4,0.0597,0.635,0.962,0.000113,-8.015,0.0557,0.968,132.802,['Pop music'],67551,0,0
+seventies_Tragedy,Bee Gees,B,0.012072435,1979,62,78,303333,2,4,0.0889,0.665,0.532,0.0109,-10.793,0.0277,0.81,117.955,['Disco-rock'],25425,0,60
+seventies_How Deep Is Your Love,Bee Gees,B,0.012072435,1979,74,78,245200,5,4,0.105,0.633,0.357,0,-9.366,0.0264,0.674,104.938,['Soft rock'],77156,4,14
+seventies_Stayin Alive,Bee Gees,B,0.012072435,1977,49,78,283146,10,4,0.0328,0.703,0.831,0.00839,-7.225,0.0349,0.949,103.573,['Disco'],114300,0,7
+seventies_You Should Be Dancing,Bee Gees,B,0.012072435,1976,66,78,258933,0,4,0.0241,0.683,0.725,0.17,-10.973,0.034,0.961,123.011,['Disco'],23001,0,0
+seventies_Night Fever,Bee Gees,B,0.012072435,1979,69,78,212253,1,4,0.0266,0.733,0.795,0.000948,-7.224,0.0249,0.892,109.122,['Disco'],31451,3,0
+seventies_More Than A Woman,Bee Gees,B,0.012072435,1977,67,78,197213,7,4,0.163,0.632,0.683,0.00013,-6.434,0.0383,0.701,105.955,['Disco'],26718,0,0
+seventies_The Rose,Bette Midler,B,0.002012072,1979,63,61,221373,0,4,0.901,0.347,0.228,0,-9.667,0.0296,0.184,133.574,"['Vocal music', 'Rock music', 'Blues']",10324,0,0
+seventies_In The Street,Big Star,B,0.002012072,1972,35,52,174733,0,4,0.000544,0.466,0.82,0.00898,-5.459,0.0365,0.624,124.917,['Power pop'],13216,0,0
+seventies_Ain't No Sunshine,Bill Withers,B,0.006036217,1971,74,73,125093,4,4,0.457,0.479,0.416,1.72E-05,-11.451,0.124,0.514,79.593,"['Rhythm and blues', 'Soul music', 'Blues']",85305,0,20
+seventies_Lean on Me,Bill Withers,B,0.006036217,1972,67,73,258834,0,4,0.782,0.619,0.22,1.19E-05,-13.843,0.0667,0.423,75.16,['Soul music'],72653,0,0
+seventies_Lovely Day,Bill Withers,B,0.006036217,1977,72,73,254560,9,4,0.292,0.69,0.651,0.00241,-8.267,0.0324,0.706,97.918,"['R&B', 'Soul music', 'Funk', 'Disco']",54734,0,0
+seventies_Just the Way You Are,Billy Joel,B,0.014084507,1977,65,80,290573,7,4,0.703,0.589,0.453,2.54E-05,-8.912,0.0397,0.513,139.148,['Soft rock'],56197,0,97
+seventies_Honesty,Billy Joel,B,0.014084507,1979,51,80,230960,10,4,0.399,0.549,0.42,0,-9.297,0.0309,0.234,135.487,"['Soft rock', 'Soul music']",16574,0,55
+seventies_Piano Man,Billy Joel,B,0.014084507,1973,67,80,336200,0,3,0.618,0.334,0.477,4.17E-06,-8.806,0.0276,0.405,179.239,"['Pop rock', 'Soft rock', 'Country rock']",67032,0,24
+seventies_Movin' Out (Anthony's Song),Billy Joel,B,0.014084507,1977,53,80,210760,2,4,0.465,0.664,0.88,1.63E-05,-5.009,0.0326,0.895,133.898,['Rock music'],29565,0,0
+seventies_My Life,Billy Joel,B,0.014084507,1978,62,80,284000,2,4,0.108,0.741,0.647,0.00139,-12.878,0.0427,0.804,131.097,"['Pop rock', 'Art pop']",25875,0,0
+seventies_New York State of Mind,Billy Joel,B,0.014084507,1976,58,80,362400,0,4,0.495,0.506,0.373,3.72E-05,-9.473,0.0347,0.195,121.268,"['Jazz', 'Soft rock']",26184,0,0
+seventies_She's Always a Woman,Billy Joel,B,0.014084507,1977,69,80,201373,3,3,0.797,0.292,0.324,0.000473,-11.996,0.0346,0.384,176.631,"['Soft rock', 'Folk rock']",39338,0,0
+seventies_Me and Mrs. Jones,Billy Paul,B,0.002012072,1972,56,58,285760,0,4,0.388,0.303,0.555,1.16E-06,-9.259,0.0482,0.447,67.322,['Soul music'],42322,0,0
+seventies_Nothing From Nothing,Billy Preston,B,0.002012072,1974,43,52,156200,9,4,0.588,0.809,0.831,0.0135,-4.027,0.0288,0.92,102.83,['Soul music'],11014,0,0
+seventies_Iron Man,Black Sabbath,B,0.006036217,1971,68,76,354773,6,4,0.00361,0.336,0.795,0.00143,-10.845,0.0897,0.417,155.271,['Heavy metal music'],94911,0,0
+seventies_War Pigs,Black Sabbath,B,0.006036217,1970,63,76,474400,6,4,0.231,0.462,0.628,0.00126,-12.348,0.0581,0.447,90.256,['Heavy metal music'],65817,0,0
+seventies_Paranoid,Black Sabbath,B,0.006036217,1970,74,76,168440,4,4,4.22E-05,0.415,0.646,0.000849,-12.021,0.0699,0.409,163.046,"['Heavy metal music', 'Proto-punk']",48867,0,0
+seventies_Heart Of Glass,Blondie,B,0.010060362,1979,47,72,252186,4,4,0.00114,0.726,0.696,0.0771,-8.017,0.0333,0.41,114.691,"['Disco', 'New wave music']",78820,0,75
+seventies_One Way Or Another,Blondie,B,0.010060362,1979,60,72,216400,6,4,0.0792,0.47,0.796,7.35E-05,-12.055,0.0517,0.909,161.414,"['Punk rock', 'New wave music', 'Power pop']",51581,0,51
+seventies_Hanging On The Telephone,Blondie,B,0.010060362,1978,39,72,153066,7,4,0.0215,0.501,0.765,0.00182,-12.47,0.0489,0.548,150.581,"['Power pop', 'New wave music']",18532,0,0
+seventies_Dreaming,Blondie,B,0.010060362,1979,47,72,188133,2,4,0.00341,0.386,0.711,0.000118,-12.448,0.0361,0.771,160.193,['Power pop'],14375,0,0
+seventies_Denis,Blondie,B,0.010060362,2006,42,72,139413,0,4,0.000376,0.529,0.771,0.00508,-6.726,0.0462,0.863,138.905,[],448757,0,0
+seventies_Don't Be Fooled by the Name,Blue Swede,B,0.002012072,2014,25,45,232960,5,4,0.239,0.652,0.82,3.18E-06,-6.551,0.0557,0.961,99.102,[],0,0,0
+seventies_(Don't Fear) The Reaper,Blue Öyster Cult,B,0.002012072,1976,74,68,308120,9,4,0.0029,0.333,0.927,0.000211,-8.55,0.0733,0.382,141.47,"['Hard rock', 'Psychedelic rock', 'Soft rock']",146297,0,0
+seventies_Forever Young,Bob Dylan,B,0.010060362,1974,50,78,296133,2,4,0.255,0.488,0.493,0.000181,-9.878,0.0464,0.389,135.093,['Rock music'],61507,0,90
+seventies_Knockin' On Heaven's Door,Bob Dylan,B,0.010060362,1973,39,78,149960,7,4,0.251,0.509,0.411,0.205,-11.874,0.0289,0.26,139.999,"['Folk rock', 'Gospel music']",189606,0,10
+seventies_Hurricane,Bob Dylan,B,0.010060362,1976,67,78,512733,0,4,0.0409,0.509,0.827,0,-7.715,0.079,0.743,135.601,"['Folk rock', 'Protest song']",99568,23,0
+seventies_Sara,Bob Dylan,B,0.010060362,1976,43,78,331493,4,3,0.36,0.432,0.504,0,-8.997,0.0382,0.276,156.278,[],227281,0,0
+seventies_One More Cup of Coffee,Bob Dylan,B,0.010060362,1976,52,78,224733,9,4,0.167,0.531,0.473,2.00E-06,-9.477,0.0305,0.306,139.176,[],0,0,0
+seventies_I Shot The Sheriff,Bob Marley & The Wailers,B,0.012072435,1974,46,62,280466,8,4,0.338,0.797,0.644,6.51E-05,-9.253,0.188,0.706,96.87,['Reggae'],100582,10,92
+seventies_Is This Love,Bob Marley & The Wailers,B,0.012072435,1978,75,84,232200,6,4,0.11,0.776,0.559,0,-8.375,0.103,0.758,122.242,['Reggae'],23719,0,73
+seventies_One Love,Bob Marley & The Wailers,B,0.012072435,1977,42,84,202160,5,4,0.186,0.66,0.486,0.00097,-11.969,0.189,0.936,121.863,['Roots reggae'],28748,0,43
+"seventies_No Woman, No Cry",Bob Marley & The Wailers,B,0.012072435,1975,69,84,427800,1,4,0.261,0.655,0.657,0.0204,-9.325,0.067,0.593,78.223,['Reggae'],100773,0,17
+seventies_Jamming,Bob Marley & The Wailers,B,0.012072435,1977,73,84,211000,11,4,0.102,0.934,0.467,3.98E-05,-10.99,0.307,0.73,123.583,['Reggae'],14754,0,0
+seventies_Waiting In Vain,Bob Marley & The Wailers,B,0.012072435,1977,70,84,256240,8,4,0.0292,0.769,0.457,3.07E-05,-11.501,0.327,0.806,78.789,['Reggae'],14285,0,0
+"seventies_Get Up, Stand Up",Bob Marley & The Wailers,B,0.012072435,1973,43,84,221933,9,4,0.344,0.822,0.547,3.54E-05,-9.537,0.381,0.863,148.88,['Reggae'],21497,0,0
+seventies_Across 110th Street,Bobby Womack,B,0.002012072,1993,58,61,230506,11,4,0.107,0.476,0.585,1.43E-05,-14.211,0.0478,0.523,110.275,[],35607,0,0
+seventies_Daddy Cool,Boney M.,B,0.00804829,1976,67,68,208600,5,4,0.281,0.763,0.777,0.78,-6.932,0.0364,0.929,124.431,['Disco'],43397,0,71
+seventies_Sunny,Boney M.,B,0.00804829,1977,63,68,242240,0,4,0.0876,0.647,0.868,0.124,-6.427,0.105,0.803,121.822,[],464788,4,40
+seventies_Ma Baker,Boney M.,B,0.00804829,1977,52,68,274773,2,4,0.0392,0.744,0.728,4.90E-05,-7.03,0.142,0.904,129.001,['Disco'],38352,2,0
+seventies_Rivers of Babylon,Boney M.,B,0.00804829,1979,61,68,261266,7,4,0.13,0.729,0.851,0.000912,-7.033,0.0362,0.741,115.118,"['Disco', 'Rocksteady', 'Reggae']",76779,6,0
+seventies_More Than a Feeling,Boston,B,0.002012072,1976,77,72,285133,7,4,0.000894,0.377,0.682,0.00217,-8.039,0.0299,0.288,108.736,"['Arena rock', 'Hard rock']",84780,0,61
+seventies_If,Bread,B,0.002012072,1973,59,67,155773,9,4,0.912,0.388,0.176,0.000336,-16.952,0.0299,0.342,97.628,[],315555,0,0
+seventies_Save Your Kisses for Me,Brotherman Of Man,B,0.002012072,2013,36,26,178586,7,4,0.246,0.736,0.644,0,-6.945,0.0334,0.865,93.757,[],0,0,0
+seventies_Born to Run,Bruce Springsteen,B,0.002012072,1975,72,81,269920,4,4,0.00501,0.27,0.944,2.05E-05,-4.199,0.0975,0.606,146.347,"['Rock music', 'Power pop']",27100,0,0
+seventies_Let's Stick Together,Bryan Ferry,B,0.002012072,1986,46,62,179200,9,4,0.0558,0.785,0.734,0.00077,-11.003,0.0413,0.975,119.818,"['Rhythm and blues', 'Glam rock']",23760,0,0
+seventies_Ever Fallen in Love (With Someone You Shouldn't've?),Buzzcocks,B,0.002012072,1978,60,57,163693,4,4,0.000862,0.266,0.831,0,-9.07,0.0453,0.778,175.514,"['Punk rock', 'Pop punk', 'Power pop']",29912,0,0
+seventies_Rhayader,Camel,C,0.002012072,1975,35,49,181986,3,4,0.833,0.402,0.432,0.965,-12.723,0.0289,0.579,143.756,[],0,0,0
+seventies_Vitamin C,CAN,C,0.002012072,1972,50,54,212000,11,4,0.00627,0.63,0.654,0.739,-12.58,0.045,0.857,117.15,[],530093,0,0
+seventies_Kung Fu Fighting,Carl Douglas,C,0.002012072,1974,68,58,197693,2,4,0.0422,0.598,0.673,6.84E-05,-10.431,0.0693,0.59,102.035,['Disco'],75966,25,0
+seventies_You're so Vain,Carly Simon,C,0.002012072,1972,73,67,258411,0,4,0.157,0.659,0.678,6.69E-06,-8.18,0.0313,0.647,106.186,"['Pop music', 'Soft rock']",210845,0,69
+seventies_I Feel the Earth Move,Carole King,C,0.006036217,1971,64,68,178560,7,4,0.648,0.711,0.576,0.00226,-8.784,0.0305,0.645,120.116,['Pop rock'],25374,0,0
+seventies_It's Too Late,Carole King,C,0.006036217,1971,66,68,233173,9,4,0.498,0.45,0.441,0.00562,-12.718,0.0352,0.811,208.282,"['Soft rock', 'Doo-wop']",31882,0,0
+seventies_So Far Away,Carole King,C,0.006036217,1971,58,68,235626,2,4,0.895,0.488,0.172,3.52E-05,-14.264,0.0372,0.362,143.631,"['Folk rock', 'Soft rock']",15488,0,0
+seventies_Top Of The World,Carpenters,C,0.012072435,1973,61,70,179173,10,4,0.806,0.379,0.343,0,-12.993,0.0385,0.694,184.301,['Country pop'],0,0,94
+seventies_Superstar,Carpenters,C,0.012072435,1969,52,70,231506,8,4,0.728,0.306,0.253,4.89E-05,-11.177,0.0294,0.171,83.175,"['Adult contemporary', 'Pop rock', 'Soft rock']",38029,0,0
+seventies_We've Only Just Begun,Carpenters,C,0.012072435,1970,56,70,184426,9,4,0.749,0.373,0.287,9.41E-06,-13.461,0.0306,0.317,86.467,"['Soft rock', 'Traditional pop']",36930,0,0
+seventies_(They Long To Be) Close To You,Carpenters,C,0.012072435,1970,61,70,273933,8,4,0.726,0.528,0.233,0.000108,-15.362,0.0346,0.208,89.044,"['Pop music', 'Soft rock']",61795,0,0
+seventies_Rainy Days And Mondays,Carpenters,C,0.012072435,1971,56,70,218893,10,4,0.852,0.351,0.235,0,-11.513,0.0323,0.218,74.72,['Pop music'],19725,0,0
+seventies_Yesterday Once More,Carpenters,C,0.012072435,1973,62,70,233533,4,4,0.672,0.254,0.38,0,-13.806,0.0337,0.408,168.496,['Pop music'],23431,3,0
+seventies_Supernature,Cerrone,C,0.002012072,2014,45,50,585374,5,4,0.00219,0.619,0.948,0.22,-6.641,0.0432,0.82,123.016,['Disco'],6712,0,0
+seventies_I'm Every Woman,Chaka Khan,C,0.002012072,1978,62,69,247413,0,4,0.127,0.617,0.879,5.71E-05,-7.564,0.0455,0.746,114.453,['Disco'],58082,0,0
+seventies_Tous les visages de l'amour,Charles Aznavour,C,0.002012072,1974,42,65,147466,2,4,0.499,0.311,0.489,0,-8.686,0.0358,0.23,131.041,['Pop music'],48067,0,0
+seventies_The Most Beautiful Girl,Charlie Rich,C,0.002012072,1974,52,53,162866,7,4,0.702,0.566,0.409,3.36E-06,-10.379,0.0265,0.458,103.233,['Country music'],18480,6,0
+seventies_I Want Your Love,CHIC,C,0.006036217,1979,59,67,413586,9,4,0.0185,0.699,0.604,0.073,-13.404,0.0359,0.96,114.226,['Disco'],17422,0,0
+seventies_Good Times,CHIC,C,0.006036217,1979,63,67,495400,11,4,0.148,0.864,0.876,7.19E-05,-7.297,0.0488,0.802,110.536,['Disco'],40438,0,0
+seventies_Le Freak,CHIC,C,0.006036217,1978,33,67,213666,7,4,0.0282,0.835,0.792,0.0003,-7.005,0.0614,0.815,119.941,"['Disco', 'Funk']",63459,0,0
+seventies_If You Leave Me Now,Chicago,C,0.002012072,1976,72,73,235373,11,4,0.0193,0.429,0.564,0.000828,-6.784,0.0268,0.276,104.212,['Soft rock'],48129,0,0
+seventies_Son Of My Father,Chicory Tip,C,0.002012072,1972,34,31,187677,5,4,0.0698,0.62,0.47,0.00592,-10.478,0.0309,0.387,129.758,"['Glam rock', 'Electronic music']",11103,0,0
+seventies_Fool (If You Think It's Over),Chris Rea,C,0.002012072,1978,40,59,243346,11,4,0.0395,0.704,0.466,7.78E-06,-6.931,0.0311,0.872,110.199,['Soft rock'],17491,0,0
+seventies_Yellow River,Christie,C,0.002012072,1970,46,40,165960,4,4,0.0859,0.627,0.544,0,-11.436,0.029,0.877,129.851,['Pop rock'],21312,5,0
+seventies_Brick House,Commodores,C,0.004024145,1977,66,72,208893,4,4,0.087,0.845,0.783,0.00466,-10.5,0.0666,0.577,107.928,['Funk'],47740,0,0
+seventies_Easy,Commodores,C,0.004024145,1977,76,72,256426,10,4,0.147,0.598,0.353,3.91E-05,-15.06,0.0343,0.342,132.457,['Soul music'],82543,0,0
+seventies_Have You Ever Seen The Rain,Creedence Clearwater Revival,C,0.002012072,1971,76,81,160133,0,4,0.0664,0.741,0.697,2.28E-05,-7.028,0.0277,0.774,116.109,"['Roots rock', 'Country rock']",107193,0,0
+seventies_Helplessly Hoping,"Crosby, Stills & Nash",C,0.002012072,1969,64,66,157893,7,4,0.914,0.567,0.159,0,-13.648,0.0331,0.436,146.913,['Folk rock'],19265,0,0
+seventies_Our House,"Crosby, Stills, Nash & Young",C,0.004024145,1970,66,67,179760,9,4,0.896,0.593,0.205,5.46E-05,-14.601,0.0479,0.377,140.279,"['Baroque pop', 'Soft rock', 'Folk rock']",38470,0,0
+seventies_Ohio,"Crosby, Stills, Nash & Young",C,0.004024145,1970,66,67,183733,0,4,0.261,0.445,0.529,0.0162,-10.94,0.026,0.749,79.296,['Hard rock'],70644,0,0
+seventies_Move On Up,Curtis Mayfield,C,0.006036217,1971,65,65,165789,11,4,0.417,0.538,0.969,0.00154,-5.626,0.0906,0.928,138.652,"['Funk', 'Soul music']",21954,0,0
+seventies_Superfly,Curtis Mayfield,C,0.006036217,1972,55,65,233293,2,4,0.535,0.779,0.61,1.20E-05,-11.767,0.106,0.734,120.216,"['Funk', 'Soul music']",8532,0,0
+seventies_Pusherman,Curtis Mayfield,C,0.006036217,1972,54,65,304400,10,4,0.362,0.85,0.508,0.073,-14.024,0.044,0.945,126.5,[],4749,0,0
+seventies_Paroles paroles,Dalida,D,0.002012072,1972,52,58,245666,5,4,0.753,0.565,0.557,0,-9.605,0.0474,0.381,125.216,[],16968,0,0
+seventies_Heroes,David Bowie,D,0.026156942,1977,72,83,371413,7,4,0.000671,0.49,0.758,0.484,-6.491,0.0297,0.435,112.114,['Art rock'],132222,0,85
+seventies_Changes,David Bowie,D,0.026156942,1972,63,83,217746,0,4,0.505,0.547,0.308,0,-11.75,0.0377,0.41,114.719,['Art pop'],52414,0,84
+seventies_Ziggy Stardust,David Bowie,D,0.026156942,1972,61,83,194440,7,4,0.048,0.44,0.565,0,-11.657,0.121,0.495,161.124,['Glam rock'],32185,0,48
+seventies_Life on Mars?,David Bowie,D,0.026156942,1971,68,83,235986,10,4,0.639,0.442,0.384,7.70E-05,-14.635,0.0414,0.216,123.281,"['Glam rock', 'Art rock']",76793,0,41
+seventies_Starman,David Bowie,D,0.026156942,1972,46,83,260240,5,4,0.2,0.446,0.395,0,-13.371,0.0275,0.517,100.415,"['Pop rock', 'Glam rock']",62785,0,39
+seventies_The Man Who Sold The World,David Bowie,D,0.026156942,1970,59,83,241346,2,4,0.642,0.474,0.387,0.00557,-14.416,0.0305,0.546,118.488,"['Hard rock', 'Glam rock', 'Blues rock', 'Folk rock']",127670,0,0
+seventies_Rebel Rebel,David Bowie,D,0.026156942,1974,72,83,274746,9,4,0.209,0.635,0.686,0.0176,-15.648,0.053,0.464,125.988,"['Glam rock', 'Proto-punk']",45436,0,0
+seventies_Five Years,David Bowie,D,0.026156942,1972,55,83,283752,7,3,0.142,0.46,0.326,1.01E-05,-10.699,0.0418,0.321,152.54,"['Glam rock', 'Art rock']",17992,0,0
+seventies_Sound and Vision,David Bowie,D,0.026156942,1977,58,83,184381,2,4,0.0319,0.667,0.803,0.0486,-8.846,0.0422,0.803,105.892,[],20573,0,0
+seventies_Aladdin Sane,David Bowie,D,0.026156942,1973,40,83,310426,2,4,0.209,0.42,0.713,0.000586,-10.286,0.0409,0.555,117.853,"['Glam rock', 'Hard rock', 'Art rock']",158000,0,0
+seventies_Young Americans,David Bowie,D,0.026156942,1975,56,83,313706,4,4,0.171,0.614,0.763,0,-8.949,0.133,0.885,84.236,"['Blue-eyed soul', 'Rhythm and blues']",116021,0,0
+seventies_Wild Is the Wind,David Bowie,D,0.026156942,1976,49,83,366360,9,4,0.0156,0.522,0.58,0.00168,-12.914,0.0324,0.493,98.489,['Blue-eyed soul'],35098,0,0
+seventies_Moonage Daydream,David Bowie,D,0.026156942,1971,67,83,279693,11,4,0.0407,0.561,0.601,0.000147,-11.209,0.0348,0.752,144.477,['Art rock'],32687,0,0
+seventies_Smoke On The Water,Deep Purple,D,0.006036217,1973,73,73,340742,0,4,0.13,0.598,0.676,0.225,-9.211,0.0279,0.805,114.169,"['Hard rock', 'Heavy metal music']",130012,0,32
+seventies_Highway Star,Deep Purple,D,0.006036217,1972,40,73,367946,9,4,0.00307,0.252,0.874,0.014,-6.596,0.0602,0.377,172.804,"['Hard rock', 'Heavy metal music']",28058,0,0
+seventies_Child in Time,Deep Purple,D,0.006036217,1970,53,73,619266,9,4,0.313,0.331,0.34,0.607,-14.784,0.0369,0.365,126.672,"['Art rock', 'Hard rock', 'Heavy metal music', 'Progressive rock']",32555,0,0
+seventies_Theme From Mahogany (Do You Know Where You're Going To),Diana Ross,D,0.002012072,1975,53,73,201688,0,4,0.837,0.35,0.312,0.022,-14.987,0.0349,0.346,139.735,"['Pop music', 'Soul music', 'Contemporary R&B']",24971,0,0
+seventies_Sultans Of Swing,Dire Straits,D,0.002012072,1978,77,78,348624,5,4,0.0614,0.733,0.794,0.0367,-10.023,0.0307,0.931,148.174,['Pub rock (United Kingdom)'],113733,0,26
+seventies_Jolene,Dolly Parton,D,0.004024145,1973,74,75,161533,1,4,0.566,0.674,0.537,0,-10.971,0.0363,0.809,110.578,"['Country music', 'Bluegrass music']",198536,0,25
+seventies_I Will Always Love You,Dolly Parton,D,0.004024145,1974,60,75,176093,9,4,0.96,0.446,0.142,0.00114,-13.498,0.0335,0.156,135.724,['Country music'],415414,0,0
+seventies_Vincent,Don McLean,D,0.004024145,1972,65,69,243493,7,3,0.908,0.419,0.085,5.33E-06,-19.387,0.0362,0.458,91.509,['Folk rock'],5954,19,64
+seventies_American Pie,Don McLean,D,0.004024145,1988,72,69,515866,7,4,0.6,0.527,0.509,0,-10.893,0.0628,0.497,138.317,"['Folk music', 'Folk rock']",43928,0,47
+seventies_Love To Love You Baby,Donna Summer,D,0.00804829,1976,33,68,255047,8,4,0.0887,0.594,0.499,0.000319,-16.193,0.0931,0.403,96.178,"['Disco', 'Funk']",48062,13,0
+seventies_I Feel Love,Donna Summer,D,0.00804829,1977,43,68,225213,7,4,0.0633,0.673,0.792,0.632,-10.94,0.0427,0.964,125.72,['Hi-NRG'],67694,17,0
+seventies_Hot Stuff,Donna Summer,D,0.00804829,1979,62,68,314760,0,4,0.00559,0.823,0.743,0.0306,-13.98,0.0316,0.966,120.471,"['Disco', 'Rock music']",37062,0,0
+seventies_Bad Girls,Donna Summer,D,0.00804829,1979,59,68,295106,2,4,0.00387,0.857,0.7,0.0164,-14.506,0.0358,0.973,120.529,"['Disco', 'Hi-NRG', 'R&B']",34512,0,0
+seventies_The Ghetto,Donny Hathaway,D,0.002012072,1969,56,64,413773,5,4,0.37,0.739,0.523,0.194,-10.462,0.0303,0.826,113.939,['Soul jazz'],7936,0,0
+seventies_When You're In Love With A Beautiful Woman,Dr. Hook,D,0.002012072,1979,56,62,178826,8,4,0.405,0.679,0.728,0.00261,-9.539,0.0378,0.852,109.623,"['Middle of the road (music)', 'Country pop', 'Disco']",19811,0,0
+seventies_Dschinghis Khan,Dschinghis Khan,D,0.002012072,1993,32,53,183066,4,4,0.397,0.674,0.924,0,-6.136,0.0643,0.949,140.832,[],79375,0,0
+seventies_Hotel California,Eagles,E,0.006036217,1977,81,80,391376,2,4,0.00574,0.579,0.508,0.000494,-9.484,0.027,0.609,147.125,['Rock music'],209498,1,3
+seventies_Take It Easy,Eagles,E,0.006036217,1972,75,80,211577,7,4,0.343,0.575,0.67,4.95E-06,-10.39,0.0318,0.74,139.191,['Country rock'],103352,0,0
+seventies_Desperado (2013 Remaster),Eagles,E,0.006036217,1973,64,80,213712,7,4,0.946,0.228,0.224,0.000222,-12.749,0.0311,0.18,60.3,[],0,0,0
+seventies_September,"Earth, Wind & Fire",E,0.004024145,1978,61,77,215080,9,4,0.165,0.694,0.831,0.000892,-7.288,0.0301,0.98,125.901,"['Contemporary R&B', 'Disco', 'Funk', 'Soul music']",120408,0,96
+seventies_Fantasy,"Earth, Wind & Fire",E,0.004024145,1978,65,77,226213,4,4,0.291,0.666,0.714,0.0212,-9.448,0.0617,0.69,89.018,"['Rhythm and blues', 'Disco']",16951,0,0
+seventies_Boogie Wonderland,"Earth, Wind & Fire",E,0.004024145,1979,49,60,168195,0,4,0.00448,0.724,0.891,0.0108,-4.275,0.047,0.717,124.061,['Disco'],35723,0,0
+seventies_War,Edwin Starr,E,0.002012072,1970,64,57,200266,1,4,0.0939,0.59,0.671,0,-12.484,0.154,0.736,109.333,['Psychedelic soul'],57329,0,0
+seventies_Mr. Blue Sky,Electric Light Orchestra,E,0.010060362,1979,79,76,303373,10,4,0.652,0.388,0.338,3.72E-06,-10.054,0.0328,0.477,177.784,"['Pop rock', 'Art rock', 'Progressive pop']",157037,16,66
+seventies_Last Train to London,Electric Light Orchestra,E,0.010060362,1979,63,76,270066,7,4,0.396,0.727,0.537,0.000789,-9.785,0.0295,0.954,121.493,"['Disco', 'Progressive rock']",14387,0,0
+seventies_Can't Get It out of My Head,Electric Light Orchestra,E,0.010060362,1975,49,76,261466,0,4,0.748,0.226,0.382,0.0084,-14.449,0.0281,0.33,169.146,['Soft rock'],14631,0,0
+seventies_Don't Bring Me Down,Electric Light Orchestra,E,0.010060362,1979,68,76,243373,2,4,0.144,0.638,0.867,0.000733,-6.469,0.0331,0.805,115.692,['Pop rock'],84573,0,0
+seventies_Livin' Thing,Electric Light Orchestra,E,0.010060362,1977,68,76,212306,0,4,0.583,0.549,0.651,0,-7.097,0.0323,0.368,122.818,[],23573,14,0
+seventies_Sunshine After The Rain,Elkie Brooks,E,0.002012072,1977,25,42,203426,3,4,0.695,0.657,0.472,0,-8.171,0.0276,0.378,106.412,[],5600,0,0
+seventies_Tiny Dancer,Elton John,E,0.024144869,1972,78,86,377093,0,4,0.382,0.414,0.428,0.000243,-11.097,0.0278,0.282,145.075,['Pop music'],189501,0,87
+seventies_Don't Go Breaking My Heart,Elton John,E,0.024144869,1976,75,86,275440,5,4,0.177,0.728,0.824,1.48E-06,-8.632,0.0353,0.787,131.468,"['Pop music', 'Soft rock']",137212,1,86
+seventies_Sorry Seems To Be The Hardest Word,Elton John,E,0.024144869,1976,59,86,228933,7,4,0.828,0.371,0.22,1.23E-06,-12.797,0.0324,0.112,118.464,[],53226,20,79
+seventies_Goodbye Yellow Brick Road,Elton John,E,0.024144869,1974,64,86,192826,5,4,0.484,0.574,0.47,0.00118,-7.675,0.027,0.372,121.642,"['Rock music', 'Pop rock', 'Glam rock']",298665,2,50
+"seventies_Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,E,0.024144869,1972,80,86,281613,10,4,0.386,0.602,0.522,1.44E-05,-9.031,0.0285,0.36,136.637,['Soft rock'],329192,0,45
+seventies_Your Song,Elton John,E,0.024144869,1970,75,86,240750,3,4,0.825,0.561,0.302,5.21E-06,-10.986,0.0319,0.278,128.172,"['Traditional pop', 'Soft rock']",231523,0,13
+seventies_Crocodile Rock,Elton John,E,0.024144869,1973,69,86,235440,4,4,0.0326,0.626,0.803,1.35E-05,-7.214,0.0358,0.968,149.918,"['Rock and roll', 'Glam rock', 'Pop rock']",81006,17,0
+seventies_Daniel,Elton John,E,0.024144869,1973,64,86,234666,0,4,0.414,0.691,0.467,4.15E-05,-11.861,0.0293,0.904,132.019,['Soft rock'],106540,22,0
+seventies_Saturday Night’s Alright (For Fighting),Elton John,E,0.024144869,1973,44,86,295833,0,4,0.0173,0.514,0.976,0.104,-6.347,0.0428,0.942,152.895,"['Glam rock', 'Hard rock', 'Proto-punk']",57480,0,0
+seventies_Don't Let The Sun Go Down On Me,Elton John,E,0.024144869,1974,57,86,336733,0,4,0.121,0.424,0.446,1.89E-06,-8.526,0.0261,0.354,139.701,[],98665,0,0
+seventies_Pinball Wizard,Elton John,E,0.024144869,1969,56,86,309106,5,4,0.139,0.502,0.868,1.43E-05,-5.706,0.0514,0.539,130.58,"['Hard rock', 'Power pop']",165158,0,0
+seventies_Bennie And The Jets,Elton John,E,0.024144869,1974,70,86,322548,0,4,0.259,0.665,0.673,7.62E-06,-7.95,0.0493,0.779,132.642,['Glam rock'],204055,0,0
+seventies_Alison,Elvis Costello,E,0.002012072,1977,54,60,204533,1,4,0.719,0.738,0.316,9.44E-06,-10.763,0.0357,0.377,88.172,"['Pub Rock', 'New wave music']",17640,0,0
+seventies_(I Don't Want To Go To) Chelsea,Elvis Costello & The Attractions,E,0.004024145,1978,41,59,190306,11,4,0.0827,0.514,0.846,0.000494,-5.456,0.0414,0.946,167.002,['New wave'],7034,0,0
+seventies_Oliver's Army,Elvis Costello & The Attractions,E,0.004024145,1979,57,59,179613,4,4,0.137,0.523,0.735,0,-9.199,0.0292,0.903,143.182,['New wave music'],53759,0,0
+seventies_Always On My Mind,Elvis Presley,E,0.002012072,1973,55,81,218440,7,4,0.746,0.358,0.387,0.0121,-14.342,0.0324,0.495,181.183,[],199771,0,72
+seventies_Lucky Man,"Emerson, Lake & Palmer",E,0.002012072,1970,57,56,275920,7,3,0.0914,0.346,0.379,0.0566,-15.662,0.0304,0.478,154.01,"['Folk rock', 'Progressive rock']",29689,0,0
+seventies_All By Myself,Eric Carmen,E,0.002012072,1976,51,65,271626,7,4,0.721,0.442,0.398,0.763,-10.778,0.0315,0.178,115.962,['Soft rock'],121262,4,0
+seventies_Wonderful Tonight,Eric Clapton,E,0.00804829,1977,53,77,222626,7,4,0.672,0.569,0.287,0.0599,-11.843,0.0266,0.463,95.426,['Soft rock'],62348,0,74
+seventies_Lay Down Sally,Eric Clapton,E,0.00804829,1977,58,77,236093,4,4,0.598,0.69,0.5,0.0288,-16.145,0.0909,0.586,191.539,"['Roots rock', 'Country rock']",23606,0,0
+seventies_Let It Grow,Eric Clapton,E,0.00804829,1974,42,77,298280,4,4,0.245,0.422,0.4,0.241,-13.519,0.0246,0.312,77.688,[],0,0,0
+seventies_Cocaine,Eric Clapton,E,0.00804829,1977,68,77,221640,9,4,0.0607,0.699,0.502,0.0337,-12.526,0.0278,0.676,105.266,['Blues rock'],62133,0,0
+seventies_Bell Bottom Blues,Eric Clapton,E,0.002012072,1971,55,65,301720,2,4,0.601,0.413,0.693,0.0553,-5.936,0.0351,0.668,133.137,['Blues rock'],18888,0,0
+seventies_One Way Ticket,Eruption,E,0.002012072,1959,52,45,213200,1,4,0.319,0.719,0.732,6.51E-06,-9.227,0.0408,0.96,123.569,['Pop music'],22157,0,0
+seventies_Go Your Own Way,Fleetwood Mac,F,0.010060362,1977,72,83,223613,5,4,0.0167,0.586,0.941,0.000776,-5.139,0.0375,0.831,135.448,['Rock music'],103165,24,78
+seventies_The Chain,Fleetwood Mac,F,0.010060362,1977,77,83,270213,9,4,0.009,0.545,0.67,0.000822,-8.81,0.0496,0.481,151.553,"['Hard rock', 'Country rock', 'Folk rock']",116591,0,0
+seventies_Rhiannon,Fleetwood Mac,F,0.010060362,1976,66,83,252773,9,4,0.111,0.723,0.49,0.0946,-14.745,0.0296,0.795,129.012,"['Rock music', 'Soft rock']",70900,0,0
+seventies_Dreams,Fleetwood Mac,F,0.010060362,1977,78,83,257800,0,4,0.0644,0.828,0.492,0.00428,-9.744,0.0276,0.789,120.151,['Soft rock'],89088,0,0
+seventies_Don't Stop,Fleetwood Mac,F,0.010060362,1977,65,83,193346,9,4,0.0373,0.672,0.72,9.38E-06,-7.781,0.035,0.828,118.731,['Rock music'],43888,0,0
+seventies_Cold as Ice,Foreigner,F,0.002012072,1977,68,73,200573,3,4,0.0987,0.516,0.486,1.48E-06,-11.81,0.0272,0.471,132.542,[],24321,0,0
+seventies_Grease,Frankie Valli,F,0.002012072,1979,62,62,207306,11,4,0.156,0.82,0.464,0,-8.45,0.0481,0.872,109.374,"['Funk rock', 'Disco']",49911,13,0
+"seventies_December, 1963 (Oh What a Night!)",Frankie Valli & The Four Seasons,F,0.002012072,1975,63,68,201093,1,4,0.058,0.727,0.588,5.46E-06,-9.568,0.0253,0.964,104.413,"['Disco', 'Pop music']",107591,0,0
+seventies_All Right Now,Free,F,0.002012072,1970,69,62,330643,2,4,0.221,0.787,0.472,0.000336,-12.824,0.0832,0.824,120.059,"['Hard rock', 'Blues rock']",70441,0,0
+seventies_One Nation Under a Groove (2015 Remaster,Funkadelic,F,0.002012072,1978,37,58,449013,4,4,0.304,0.782,0.777,0.00113,-8.434,0.0409,0.872,122.431,[],0,0,0
+seventies_The Flesh Failures (Let the Sunshine In),Galt MacDermot,G,0.006036217,1969,40,52,364066,7,4,0.045,0.56,0.859,0,-9.127,0.0925,0.468,106.237,"['Psychedelic soul', 'Sunshine pop']",97511,0,63
+seventies_Aquarius,Galt MacDermot,G,0.006036217,1969,48,52,288360,8,4,0.0614,0.689,0.62,0.00209,-10.415,0.0644,0.816,81.597,"['Psychedelic soul', 'Sunshine pop']",97511,0,37
+seventies_Good Morning Starshine,Galt MacDermot,G,0.006036217,1979,35,52,145066,0,4,0.358,0.601,0.458,0,-12.348,0.0583,0.586,139.414,"['Blues rock', 'Psychedelic pop', 'Psychedelic rock']",3579,0,0
+seventies_Rock & Roll Part 2,Gary Glitter,G,0.002012072,1972,3,45,193253,11,4,0.000292,0.71,0.314,0.785,-10.666,0.082,0.401,129.124,['Glam rock'],35407,0,0
+seventies_Parisienne Walkways,Gary Moore,G,0.002012072,1978,35,61,200907,9,4,0.661,0.367,0.149,0.0696,-18.256,0.0282,0.233,87.795,['Blues rock'],14703,0,0
+seventies_Cars,Gary Numan,G,0.002012072,1979,61,57,238906,2,4,0.00967,0.542,0.578,5.97E-05,-8.755,0.0404,0.809,128,"['Synth-pop', 'New wave music']",58350,0,0
+seventies_Are 'Friends' Electric?,Gary Numan / Tubeway Army,G,0.002012072,1979,45,38,325200,5,4,0.03,0.423,0.748,0.221,-9.832,0.0387,0.428,93.977,"['Synthpop', 'New wave music']",22101,0,0
+seventies_Follow You Follow Me,Genesis,G,0.002012072,1978,57,71,240991,7,4,0.146,0.531,0.747,0.0722,-9.368,0.0344,0.761,93.559,['Soft rock'],27186,0,0
+seventies_My Sweet Lord,George Harrison,G,0.004024145,1971,74,72,281226,1,4,0.0794,0.538,0.704,0,-8.904,0.0332,0.583,120.963,"['Folk rock', 'Gospel music']",152144,1,0
+seventies_All Things Must Pass,George Harrison,G,0.004024145,1970,58,72,226866,9,4,0.494,0.508,0.56,0.00611,-8.244,0.0304,0.386,122.514,"['Rock music', 'Folk rock']",186541,0,0
+seventies_Rock Your Baby,George McCrae,G,0.002012072,1974,56,54,200053,1,4,0.169,0.594,0.906,0.00122,-5.536,0.0594,0.892,104.411,"['Disco', 'Memphis soul']",22841,21,0
+seventies_Baker Street,Gerry Rafferty,G,0.002012072,1979,67,63,365626,7,4,0.0929,0.497,0.349,0.028,-14,0.0297,0.421,113.762,"['Jazz rock', 'Pop rock', 'Soft rock']",139429,21,0
+seventies_The Revolution Will Not Be Televised,Gil Scott-Heron,G,0.002012072,1971,48,55,187346,11,4,0.51,0.56,0.767,0,-9.825,0.191,0.961,180.637,"['Funk', 'Spoken word']",78017,0,0
+seventies_Clair,Gilbert O'Sullivan,G,0.004024145,1973,48,57,180453,9,4,0.581,0.75,0.518,0,-7.087,0.0282,0.612,105.635,['Pop music'],20220,11,0
+seventies_Alone Again (Naturally),Gilbert O'Sullivan,G,0.004024145,1972,62,57,217728,8,4,0.583,0.558,0.464,0.000133,-8.488,0.0354,0.559,171.762,['Soft rock'],67243,1,0
+seventies_I Will Survive,Gloria Gaynor,G,0.002012072,1978,55,67,195880,9,4,0.0783,0.773,0.829,0.00349,-6.903,0.0713,0.63,115.904,['Disco'],130643,0,18
+seventies_Wake up Everybody,Harold Melvin & The Blue Notes,H,0.002012072,1975,56,59,451400,6,4,0.154,0.573,0.546,0,-12.163,0.0631,0.636,98.223,"['Contemporary R&B', 'Soul music']",12560,0,0
+seventies_Without You,Harry Nilsson,H,0.002012072,1972,62,63,201000,4,4,0.612,0.392,0.185,2.89E-06,-15.472,0.0285,0.145,64.933,[],179075,5,0
+seventies_Barracuda,Heart,H,0.002012072,1977,73,71,261933,4,4,0.015,0.547,0.691,0.105,-13.553,0.0369,0.667,137.148,"['Rock music', 'Hard rock', 'Heavy metal music']",71598,0,0
+seventies_Boogie Nights,Heatwave,H,0.002012072,1977,54,53,303533,4,4,0.349,0.62,0.54,2.53E-05,-14.636,0.0422,0.759,118.823,['Disco'],15090,0,0
+seventies_Popcorn,Hot Butter,H,0.002012072,1969,42,33,151440,11,4,0.0425,0.784,0.626,0.703,-14.617,0.0572,0.952,136.886,['Synth-pop'],66723,0,0
+seventies_You Sexy Thing,Hot Chocolate,H,0.002012072,1975,70,63,244920,5,4,0.522,0.791,0.734,0.00165,-5.464,0.0629,0.962,105.854,"['Funk', 'Disco', 'Soul music']",48897,0,0
+seventies_Hit Me With Your Rhythm Stick,Ian Dury,I,0.002012072,1978,46,47,223133,5,4,0.0739,0.713,0.861,0.00173,-7.834,0.036,0.898,104.299,"['Rock music', 'Post-punk', 'Disco']",23197,0,0
+seventies_The Passenger,Iggy Pop,I,0.004024145,1977,70,68,283360,0,4,0.0839,0.495,0.898,3.07E-06,-5.383,0.054,0.746,134.852,[],50212,0,0
+seventies_Lust For Life,Iggy Pop,I,0.004024145,1977,65,68,313925,9,4,0.0276,0.383,0.97,0,-5.638,0.0435,0.62,101.603,"['Hard rock', 'Punk rock']",61076,0,0
+seventies_Walk On By,Isaac Hayes,I,0.004024145,1964,53,58,273066,6,4,0.0462,0.313,0.34,0.000465,-15.315,0.0504,0.407,145.955,[],42530,0,0
+"seventies_Theme From ""Shaft""",Isaac Hayes,I,0.004024145,1971,44,58,196160,9,4,0.0104,0.497,0.616,2.09E-06,-15.392,0.0401,0.855,119.95,"['Soul music', 'Funk']",32726,0,0
+seventies_The Boss,James Brown,J,0.004024145,2009,37,69,194933,1,4,0.386,0.715,0.563,0.0517,-8.307,0.04,0.573,97.452,[],0,0,0
+seventies_Get Up I Feel Like Being Like A Sex Machine,James Brown,J,0.004024145,1970,59,69,318800,10,4,0.273,0.833,0.661,0.000149,-7.595,0.101,0.858,108.314,['Funk'],27405,0,0
+seventies_You've Got a Friend,James Taylor,J,0.004024145,1971,66,72,268706,9,4,0.681,0.695,0.282,0.0267,-15.359,0.0295,0.445,91.681,['Soft rock'],89436,0,0
+seventies_Fire and Rain,James Taylor,J,0.004024145,1970,70,72,200579,5,4,0.499,0.611,0.35,7.84E-06,-14.48,0.0356,0.36,76.064,"['Soft rock', 'Folk rock']",68997,0,0
+seventies_At Seventeen,Janis Ian,J,0.002012072,1975,48,46,283080,0,4,0.887,0.612,0.279,0.000129,-16.625,0.0457,0.351,125.139,['Soft rock'],40156,0,0
+seventies_Me and Bobby McGee,Janis Joplin,J,0.004024145,1969,68,69,271333,2,4,0.302,0.453,0.464,5.96E-05,-10.96,0.0431,0.658,93.19,['Country music'],132119,0,0
+seventies_Cry Baby,Janis Joplin,J,0.004024145,1963,63,69,238600,0,3,0.515,0.474,0.418,0.000342,-9.654,0.03,0.504,83.18,['Soul blues'],12216,0,0
+seventies_Porqué Te Vas?,Jeanette,J,0.002012072,1974,56,58,201160,0,4,0.427,0.612,0.458,8.41E-06,-11.086,0.069,0.961,172.516,"['Pop music', 'Canción melódica']",22123,0,0
+seventies_Coupable,Jean-François Michaël,J,0.002012072,2003,23,29,169769,2,4,0.166,0.671,0.606,0.000238,-8.86,0.0235,0.389,94.975,[],0,0,0
+"seventies_Oxygene, Pt. 4",Jean-Michel Jarre,J,0.002012072,2015,53,58,246893,7,3,0.0234,0.43,0.755,0.591,-8.457,0.0365,0.657,188.904,[],0,0,0
+seventies_Aqualung,Jethro Tull,J,0.002012072,1971,63,63,396186,7,4,0.0667,0.48,0.47,0.0171,-11.919,0.044,0.701,122.569,"['Progressive rock', 'Folk rock', 'Hard rock']",106882,0,0
+seventies_Angel,Jimi Hendrix,J,0.002012072,1971,43,76,262880,8,4,0.186,0.39,0.691,0.0161,-9.278,0.0619,0.348,133.958,['Rock music'],12320,0,0
+seventies_Many Rivers To Cross,Jimmy Cliff,J,0.002012072,1969,49,65,163453,5,4,0.726,0.433,0.267,0.01,-12.579,0.069,0.114,137.802,['Reggae'],22349,0,0
+seventies_You Are So Beautiful,Joe Cocker,J,0.004024145,1974,59,70,160973,1,4,0.924,0.373,0.0756,0.00238,-18.731,0.0331,0.108,122.722,"['Pop music', 'Soul music']",70687,0,0
+seventies_L'été indien,Joe Dassin,J,0.002012072,1975,51,60,269320,7,4,0.167,0.476,0.602,0.000706,-8.929,0.0371,0.62,121.608,['Pop music'],5996,0,0
+seventies_I Keep A Close Watch,John Cale,J,0.002012072,1996,20,52,209840,10,4,0.0828,0.563,0.447,0.00117,-12.542,0.0255,0.207,108.911,[],0,0,0
+"seventies_Take Me Home, Country Roads",John Denver,J,0.002012072,1971,76,73,197813,9,4,0.546,0.255,0.43,1.87E-05,-12.564,0.0322,0.546,164.267,['Country music'],326564,0,93
+seventies_Stand By Me,John Lennon,J,0.016096579,1961,62,73,211666,9,4,0.29,0.632,0.556,0.0215,-10.138,0.0288,0.633,104.996,"['Rhythm and blues', 'Soul music']",167859,0,82
+seventies_Imagine,John Lennon,J,0.016096579,1972,75,73,187866,0,4,0.907,0.547,0.257,0.183,-12.358,0.0252,0.169,75.752,"['Soft rock', 'Pop music']",247137,4,5
+seventies_Jealous Guy,John Lennon,J,0.016096579,1985,65,73,257786,4,4,0.877,0.489,0.389,0.32,-11.653,0.0284,0.254,131.366,"['Soft rock', 'Pop music']",50661,0,0
+seventies_Working Class Hero,John Lennon,J,0.016096579,1975,6,73,275600,9,4,0.478,0.302,0.41,0.000257,-6.757,0.0482,0.186,84.933,['Folk music'],43816,0,0
+seventies_Oh My Love,John Lennon,J,0.016096579,1971,50,73,168106,9,4,0.985,0.529,0.104,0.291,-19.669,0.0392,0.183,135.235,['Rock music'],11439,0,0
+seventies_#9 Dream,John Lennon,J,0.016096579,2012,4,58,271880,0,4,0.627,0.607,0.374,0.141,-9.875,0.0284,0.237,112.978,[],0,0,0
+seventies_Love,John Lennon,J,0.016096579,1970,46,73,202146,2,4,0.887,0.613,0.0609,0.0197,-21.297,0.0391,0.156,80.988,['Soft rock'],11440,0,0
+seventies_Instant Karma! (We All Shine On),John Lennon,J,0.016096579,1970,50,73,205133,11,4,0.000899,0.624,0.931,0.00149,-9.988,0.116,0.14,119.887,['Rock music'],47687,0,0
+seventies_Happy Xmas (War Is Over),John Lennon,J,0.016096579,1971,52,73,213880,2,3,0.319,0.328,0.607,0,-11.076,0.0315,0.395,146.539,"['Rock music', 'Christmas music']",45583,0,0
+seventies_Love Is In The Air,John Paul Young,J,0.002012072,1977,60,52,210293,0,4,0.0254,0.557,0.791,0.000264,-7.201,0.0389,0.895,122.34,['Disco music'],38817,0,0
+seventies_I Can See Clearly Now,Johnny Nash,J,0.002012072,1972,65,59,164733,2,4,0.633,0.681,0.373,0.00113,-13.2,0.0568,0.623,123.423,['Reggae'],101368,0,0
+seventies_Blue,Joni Mitchell,J,0.006036217,1971,46,69,177253,6,3,0.989,0.463,0.102,0.00354,-13.689,0.0436,0.456,133.946,"['Folk rock', 'Pop music']",102096,0,0
+seventies_Help Me,Joni Mitchell,J,0.006036217,1974,50,69,204320,9,4,0.484,0.579,0.536,5.40E-05,-10.035,0.0388,0.67,81.868,"['Folk jazz', 'Soft rock']",15419,0,0
+seventies_Big Yellow Taxi,Joni Mitchell,J,0.006036217,1970,68,69,134800,4,4,0.579,0.611,0.47,0,-9.135,0.0356,0.97,85.527,"['Folk rock', 'Pop music', 'Folk music']",122704,0,0
+seventies_Transmission,Joy Division,J,0.002012072,1979,54,69,217199,7,4,0.00487,0.411,0.879,0.0446,-6.302,0.0468,0.499,153.31,['Post-punk'],21612,0,0
+seventies_Forever Autumn,Justin Hayward,J,0.002012072,1979,22,43,312200,2,3,0.922,0.0982,0.211,0.0291,-15.392,0.0383,0.118,74.72,[],13938,14,0
+seventies_Dust in the Wind,Kansas,K,0.004024145,1978,75,71,206266,7,4,0.367,0.475,0.322,0.00056,-10.687,0.0283,0.387,93.503,['Soft rock'],74141,0,28
+seventies_Carry On Wayward Son,Kansas,K,0.004024145,1976,44,71,205026,9,4,0.000553,0.403,0.648,6.88E-05,-8.1,0.0325,0.904,126.682,"['Progressive rock', 'Hard rock']",74280,0,0
+seventies_Wuthering Heights,Kate Bush,K,0.004024145,1978,65,66,269066,1,4,0.366,0.481,0.392,0.0452,-11.381,0.0312,0.52,124.572,"['Art pop', 'Art rock']",80120,0,0
+seventies_The Man with the Child in His Eyes,Kate Bush,K,0.004024145,1978,50,66,158693,0,4,0.962,0.249,0.261,0.00154,-10.592,0.0334,0.195,90.007,['Progressive pop'],16909,0,0
+seventies_That's the Way (I Like It),KC & The Sunshine Band,K,0.002012072,1975,43,66,306146,5,4,0.125,0.661,0.928,0.00277,-6.898,0.0441,0.851,108.587,"['Disco', 'Funk']",34151,0,0
+seventies_Just Dropped In,Kenny Rogers,K,0.002012072,1977,41,70,204640,11,4,0.133,0.641,0.629,0.000525,-14.214,0.0765,0.33,107.827,['Psychedelic pop'],61166,0,0
+seventies_Jungle Boogie,Kool & The Gang,K,0.002012072,1973,62,69,186533,5,4,0.115,0.808,0.85,0.000109,-8.772,0.0868,0.717,106.855,['Funk'],27328,0,0
+seventies_The Robots,Kraftwerk,K,0.002012072,1978,47,58,372760,2,4,0.0236,0.806,0.765,0.617,-9.665,0.0583,0.353,115.023,"['Electronic music', 'Synthpop']",13454,0,0
+seventies_Lady Marmalade,LaBelle,L,0.002012072,1975,47,44,237120,2,4,0.398,0.631,0.563,0,-12.135,0.0552,0.947,117.963,"['Soul music', 'Disco']",270198,6,0
+seventies_Stairway to Heaven,Led Zeppelin,L,0.016096579,1971,76,83,482830,9,4,0.58,0.338,0.34,0.0032,-12.049,0.0339,0.197,82.433,"['Progressive rock', 'Folk rock', 'Hard rock']",286988,0,8
+seventies_D'yer Mak'er,Led Zeppelin,L,0.016096579,1973,63,83,262748,9,4,0.262,0.525,0.929,2.90E-05,-8.56,0.0784,0.556,163.503,['Reggae rock'],44864,0,0
+seventies_Since I've Been Loving You,Led Zeppelin,L,0.016096579,1970,60,83,444148,5,3,0.0021,0.393,0.364,0.0703,-10.945,0.0345,0.308,118.566,['Blues rock'],21991,0,0
+seventies_All My Love,Led Zeppelin,L,0.016096579,1979,51,83,355893,7,4,0.123,0.552,0.791,1.42E-05,-8.356,0.0303,0.698,91.2,['Rock music'],44202,0,0
+seventies_Rock and Roll,Led Zeppelin,L,0.016096579,1972,64,83,220560,9,4,0.000582,0.317,0.887,0.00258,-7.292,0.0375,0.871,169.613,"['Rock and roll', 'Hard rock']",30485,0,0
+seventies_Black Dog,Led Zeppelin,L,0.016096579,1971,71,83,295386,4,4,0.396,0.437,0.864,0.0314,-7.842,0.0904,0.749,81.394,"['Hard rock', 'Blues rock']",45386,0,0
+seventies_Kashmir,Led Zeppelin,L,0.016096579,1975,61,83,517125,2,3,0.452,0.483,0.615,0.000414,-8.538,0.0497,0.594,80.576,"['Hard rock', 'Progressive rock']",100853,0,0
+seventies_Immigrant Song,Led Zeppelin,L,0.016096579,1970,76,83,146250,11,4,0.013,0.564,0.932,0.169,-10.068,0.0554,0.619,112.937,"['Hard rock', 'Viking metal']",140858,0,0
+seventies_You Make Me Feel Like Dancing,Leo Sayer,L,0.004024145,1976,56,61,221306,8,4,0.0784,0.734,0.731,0,-5.24,0.0473,0.705,96.071,"['Disco', 'Pop music', 'Contemporary R&B']",22651,0,0
+seventies_When I Need You,Leo Sayer,L,0.004024145,1977,49,61,255040,1,3,0.385,0.617,0.335,2.37E-05,-8.114,0.0303,0.115,109.577,['Soft rock'],33965,6,0
+seventies_A Song For You,Leon Russell,L,0.002012072,1970,48,53,248600,5,4,0.973,0.48,0.0871,2.67E-06,-22.005,0.0442,0.205,118.037,['Vocal music'],105649,0,0
+seventies_Chelsea Hotel No. 2,Leonard Cohen,L,0.002012072,2006,36,59,225213,5,3,0.753,0.394,0.264,0,-6.93,0.0329,0.226,119.326,[],132985,0,0
+seventies_Lover Lover Lover,Leonard Cohen,L,0.006036217,1974,43,70,199480,7,4,0.574,0.705,0.408,1.27E-05,-11.488,0.0597,0.554,111.931,[],0,0,0
+seventies_Famous Blue Raincoat,Leonard Cohen,L,0.006036217,1971,58,70,310773,9,3,0.948,0.474,0.0404,0.000263,-22.208,0.0387,0.18,119.415,['Folk music'],36411,0,0
+seventies_Who by Fire,Leonard Cohen,L,0.006036217,1974,47,70,153493,9,4,0.872,0.459,0.152,0.00263,-15.176,0.0324,0.228,77.652,[],0,0,0
+seventies_You Are My Love,Liverpool Express,L,0.002012072,1976,30,30,193373,9,4,0.788,0.341,0.492,0.0168,-8.459,0.0313,0.276,83.364,[],0,16,0
+seventies_Perfect Day,Lou Reed,L,0.006036217,1972,66,69,225000,10,3,0.744,0.4,0.267,0.00734,-12.488,0.0323,0.0872,144.799,"['Baroque pop', 'Art pop', 'Pop rock']",69474,0,68
+seventies_Walk On the Wild Side,Lou Reed,L,0.006036217,1972,73,69,254173,0,4,0.683,0.575,0.318,0.000202,-16.729,0.109,0.385,104.522,['Glam rock'],99154,0,0
+seventies_Satellite of Love,Lou Reed,L,0.006036217,1973,59,69,221120,5,4,0.442,0.458,0.502,5.51E-06,-10.186,0.0294,0.571,121.861,[],20969,0,0
+seventies_Sweet Home Alabama,Lynyrd Skynyrd,L,0.004024145,1974,81,77,283800,7,4,0.181,0.596,0.605,0.000331,-12.145,0.0255,0.886,97.798,"['Country rock', 'Southern rock']",292884,0,80
+seventies_Free Bird,Lynyrd Skynyrd,L,0.004024145,1973,68,77,558933,7,4,0.0107,0.281,0.863,0.0296,-7.669,0.0493,0.544,118.033,"['Southern rock', 'Hard rock']",155878,0,0
+seventies_My Girl,Madness,M,0.006036217,1979,46,66,165120,1,4,0.128,0.679,0.912,0.00201,-4.393,0.0417,0.78,119.333,"['Ska', '2 Tone Records']",11402,0,0
+seventies_One Step Beyond,Madness,M,0.006036217,1979,53,66,138146,0,4,0.0424,0.476,0.917,0.0268,-4.398,0.0658,0.918,154.883,"['Ska', 'Pop music', '2 Tone (music genre)']",27402,0,0
+seventies_Night Boat To Cairo,Madness,M,0.006036217,1979,23,66,211026,5,4,0.0531,0.302,0.967,0.26,-5.135,0.0452,0.563,157.379,"['Ska', 'Pop music', '2 Tone (music genre)']",8495,0,0
+seventies_L'oiseau et l'enfant,Marie Myriam,M,0.002012072,1988,40,33,183413,2,4,0.846,0.742,0.241,0,-14.751,0.0349,0.335,102.857,[],7740,0,0
+seventies_Reflections Of My Life,Marmalade,M,0.002012072,1970,49,44,251280,7,4,0.577,0.398,0.398,0.0248,-10.66,0.0263,0.54,92.239,['Psychedelic pop'],33200,10,0
+seventies_Mercy Mercy Me (The Ecology),Marvin Gaye,M,0.00804829,1971,57,79,196466,11,4,0.405,0.521,0.606,0.641,-12.12,0.0471,0.497,93.256,['Soul music'],33913,0,0
+seventies_Let's Get It On,Marvin Gaye,M,0.00804829,1973,67,79,290933,3,4,0.0495,0.55,0.613,1.70E-06,-10.632,0.0584,0.571,165.966,"['Soul music', 'Funk']",68904,0,0
+seventies_What's Going On,Marvin Gaye,M,0.00804829,1971,68,79,232600,1,4,0.111,0.256,0.832,0,-5.578,0.0998,0.837,202.084,['Soul music'],132514,0,0
+seventies_I Want You,Marvin Gaye,M,0.00804829,1976,55,79,274400,1,4,0.863,0.523,0.793,0.213,-9.427,0.0343,0.795,100.697,"['Soul music', 'Funk', 'Quiet storm', 'Jazz-funk']",41164,0,0
+seventies_As The Years Go By,Mashmakhan,M,0.002012072,1970,15,13,185893,1,4,0.206,0.362,0.697,0.000164,-9.263,0.0567,0.687,134.646,['Progressive rock'],2590,0,0
+seventies_Woodstock,Matthews' Southern Comfort,M,0.002012072,1971,36,31,269333,7,4,0.787,0.595,0.34,0.179,-15.214,0.0332,0.79,119.859,['Folk jazz'],51448,6,0
+seventies_Chase The Devil,Max Romeo,M,0.002012072,1976,60,56,206306,2,4,0.183,0.825,0.62,0,-6.083,0.211,0.744,150.243,['Reggae'],14650,0,0
+seventies_Ain't No Stoppin' Us Now,McFadden & Whitehead,M,0.002012072,1979,55,46,220866,1,4,0.127,0.747,0.701,0,-7.7,0.0453,0.87,112.964,"['Funk', 'Disco']",17018,0,0
+seventies_Don't Stop 'Til You Get Enough,Michael Jackson,M,0.00804829,1979,72,85,365466,11,4,0.126,0.878,0.821,0.0461,-9.875,0.089,0.947,118.881,"['Disco', 'Funk']",62575,0,0
+seventies_Ben,Michael Jackson,M,0.00804829,1972,57,85,165160,5,4,0.81,0.464,0.132,1.16E-05,-12.935,0.0283,0.303,68.152,"['Rhythm and blues', 'Soul music']",63359,0,0
+seventies_Rock with You,Michael Jackson,M,0.00804829,1979,71,85,220626,1,4,0.179,0.808,0.535,9.91E-05,-12.521,0.0353,0.848,114.031,"['Disco', 'Contemporary R&B']",49728,0,0
+seventies_Off the Wall,Michael Jackson,M,0.00804829,1979,60,85,246000,3,4,0.182,0.827,0.595,0,-13.909,0.0565,0.921,118.741,"['Disco', 'Pop music', 'Funk music', 'R&B']",244918,0,0
+seventies_Chirpy Chirpy Cheep Cheep,Middle Of The Road,M,0.002012072,1971,46,46,177800,11,4,0.0916,0.549,0.547,2.26E-06,-8.681,0.0452,0.972,129.814,[],29527,7,0
+seventies_Laisse moi t'aimer,Mike Brant,M,0.004024145,1995,42,46,203093,1,3,0.676,0.422,0.392,0,-8.577,0.0278,0.315,83.788,[],0,0,0
+seventies_Mais dans la lumière,Mike Brant,M,0.004024145,1995,26,46,216200,0,4,0.579,0.397,0.767,0,-3.886,0.0416,0.574,83.542,[],0,0,0
+seventies_Lovin' You,Minnie Riperton,M,0.002012072,1975,56,56,203506,9,3,0.903,0.392,0.213,1.01E-06,-12.494,0.0415,0.312,100.518,"['Soul music', 'Pop music']",73963,0,0
+seventies_Eres Tú,Mocedades,M,0.002012072,1973,51,58,214573,2,4,0.132,0.415,0.428,0,-9.313,0.0254,0.652,81.352,['Canción melódica'],23320,0,0
+seventies_Always Look On The Bright Side Of Life,Monty Python,M,0.002012072,1991,52,50,215333,2,4,0.432,0.669,0.535,0,-12.36,0.0973,0.739,120.071,['Comedy music'],86358,0,0
+seventies_All the Young Dudes,Mott The Hoople,M,0.002012072,1972,61,54,211066,4,4,0.208,0.429,0.668,0,-7.539,0.044,0.398,77.737,['Glam rock'],100782,0,0
+seventies_In the Summertime,Mungo Jerry,M,0.002012072,1970,67,58,211880,4,4,0.724,0.754,0.449,0,-14.013,0.0615,0.973,82.751,['Skiffle'],59782,0,0
+seventies_Love Hurts,Nazareth,N,0.002012072,1961,64,62,232120,7,4,0.00693,0.442,0.491,0.00491,-6.598,0.0246,0.125,79.954,['Country music'],99006,0,0
+seventies_Heart of Gold,Neil Young,N,0.012072435,1972,39,74,187280,7,4,0.204,0.538,0.48,0.0462,-9.863,0.0268,0.834,171.773,"['Folk rock', 'Country rock']",43922,0,95
+seventies_Old Man,Neil Young,N,0.012072435,1972,66,74,202146,4,4,0.431,0.702,0.244,0.00867,-15.286,0.0355,0.444,141.317,"['Folk rock', 'Country rock']",37209,0,0
+seventies_Only Love Can Break Your Heart,Neil Young,N,0.012072435,1970,51,74,188600,2,3,0.681,0.732,0.239,1.16E-06,-12.203,0.037,0.377,110.58,['Folk rock'],21484,0,0
+seventies_Like a Hurricane,Neil Young,N,0.012072435,1977,45,74,501213,9,4,0.0129,0.423,0.834,0.00113,-5.498,0.037,0.606,113.876,['Rock music'],14421,0,0
+"seventies_My My, Hey Hey (Out of the Blue)",Neil Young,N,0.012072435,1979,66,74,227705,7,4,0.856,0.502,0.4,0.000375,-13.697,0.0294,0.435,127.182,['Acoustic music'],16640,0,0
+seventies_The Needle and the Damage Done,Neil Young,N,0.012072435,1972,27,74,147693,4,4,0.409,0.378,0.497,9.25E-06,-10.067,0.0333,0.291,115.884,"['Folk music', 'Rock music']",22208,0,0
+seventies_Northern Sky,Nick Drake,N,0.002012072,1971,56,64,223866,5,4,0.548,0.544,0.263,0.779,-18.357,0.0354,0.516,89.758,['Folk music'],7766,0,0
+seventies_D.I.S.C.O.,N-Trance,N,0.002012072,1979,14,51,264026,0,4,0.0498,0.754,0.758,0.000118,-9.363,0.0384,0.508,125.917,['Disco'],14231,0,0
+seventies_Hopelessly Devoted To You,Olivia Newton-John,O,0.002012072,1978,60,70,187933,11,4,0.288,0.268,0.484,0.00327,-9.333,0.0362,0.328,73.508,[],25629,0,0
+seventies_Born to Be Alive,Patrick Hernandez,P,0.002012072,1978,63,53,188133,2,4,0.0846,0.704,0.867,0,-5.808,0.0315,0.809,131.467,[],26098,0,0
+seventies_Dancing Barefoot,Patti Smith,P,0.006036217,1979,54,63,256533,2,4,0.235,0.492,0.639,0,-9.944,0.0319,0.792,115.519,[],11073,0,0
+seventies_Gloria,Patti Smith,P,0.006036217,1964,11,63,618208,9,4,0.969,0.314,0.58,0.356,-8.724,0.0539,0.417,138.122,"['Garage rock', 'British rhythm and blues']",117641,0,0
+seventies_Because the Night,Patti Smith,P,0.006036217,1978,62,63,204800,11,4,0.0542,0.466,0.763,0,-7.748,0.0391,0.473,123.539,['New wave music'],132111,0,0
+seventies_Jet,Paul McCartney,P,0.006036217,1974,24,76,248266,9,4,0.0029,0.492,0.644,0.188,-11.272,0.0335,0.399,128.903,['Power pop'],42069,24,0
+seventies_Band On The Run,Paul McCartney,P,0.006036217,1974,22,76,311440,7,4,0.0728,0.479,0.469,0.000235,-13.592,0.0322,0.685,125.019,"['Folk rock', 'Funk rock']",43325,3,0
+seventies_Maybe I'm Amazed,Paul McCartney,P,0.006036217,2009,12,59,238000,0,4,0.911,0.784,0.102,0.915,-21.31,0.0743,0.119,117.982,[],0,0,0
+seventies_Live And Let Die,Paul McCartney,P,0.006036217,1973,40,76,193773,7,5,0.282,0.436,0.5,0.00223,-10.408,0.0645,0.209,154.085,['Symphonic rock'],111005,0,0
+seventies_Still Crazy After All These Years,Paul Simon,P,0.010060362,1975,56,74,206533,7,4,0.8,0.267,0.252,4.43E-05,-11.687,0.0351,0.13,37.114,"['Folk rock', 'Pop rock', 'Soul music']",83673,0,0
+seventies_Me and Julio Down by the Schoolyard,Paul Simon,P,0.010060362,1972,70,74,164813,9,4,0.237,0.626,0.816,1.80E-06,-10.593,0.13,0.798,105.33,"['Pop rock', 'Folk rock']",79153,0,0
+seventies_50 Ways to Leave Your Lover,Paul Simon,P,0.010060362,1975,66,74,217346,7,4,0.166,0.815,0.372,0.000116,-12.814,0.0752,0.293,101.684,"['Soft rock', 'Folk rock']",39903,0,0
+seventies_Slip Slidin' Away,Paul Simon,P,0.010060362,1977,54,74,285053,8,4,0.743,0.641,0.409,2.58E-06,-12.452,0.0348,0.315,121.165,"['Soft rock', 'Folk rock', 'Country pop']",13162,0,0
+seventies_Mother and Child Reunion,Paul Simon,P,0.010060362,1972,51,74,187400,9,4,0.112,0.712,0.632,0,-7.704,0.0334,0.764,119.931,"['Pop rock', 'Reggae']",24133,0,0
+seventies_Show Me The Way,Peter Frampton,P,0.004024145,1975,66,63,243266,2,4,0.412,0.701,0.738,0,-7.6,0.0352,0.616,130.159,['Rock music'],25116,0,0
+"seventies_Baby, I Love Your Way",Peter Frampton,P,0.004024145,1975,52,63,309760,0,4,0.614,0.749,0.246,0.000138,-12.847,0.0383,0.308,132.153,['Soft rock'],83982,0,0
+seventies_Solsbury Hill,Peter Gabriel,P,0.002012072,1977,64,68,261560,11,1,0.355,0.678,0.631,0.000268,-8.624,0.0301,0.463,102.378,"['Folk pop', 'Progressive pop']",102769,0,0
+seventies_Magic,Pilot,P,0.002012072,1974,55,49,186333,9,4,0.346,0.394,0.589,0,-6.68,0.0608,0.727,203.176,"['Pop rock', 'Power pop', 'Glam rock']",52557,0,0
+seventies_Shine on You Crazy Diamond,Pink Floyd,P,0.012072435,2006,18,23,351773,7,3,0.266,0.495,0.392,0.000278,-8.639,0.0279,0.238,139.871,[],0,0,58
+seventies_Wish You Were Here,Pink Floyd,P,0.012072435,1975,74,84,334743,7,4,0.735,0.481,0.262,0.0114,-15.73,0.0414,0.375,122.883,"['Progressive rock', 'Art rock', 'Experimental rock']",366790,0,16
+seventies_Have a Cigar,Pink Floyd,P,0.012072435,1975,61,84,307733,4,4,0.407,0.454,0.65,0.0498,-10.191,0.0437,0.72,120.154,"['Progressive rock', 'Blues rock']",50573,0,0
+seventies_Money,Pink Floyd,P,0.012072435,1973,71,84,382834,9,1,0.0241,0.469,0.537,0.00201,-10.421,0.152,0.783,124.193,"['Progressive rock', 'Psychedelic rock', 'Experimental rock', 'Blues rock', 'Hard rock']",61713,19,0
+seventies_Us and Them,Pink Floyd,P,0.012072435,1974,63,84,469224,2,4,0.863,0.356,0.302,0.546,-14.528,0.0346,0.126,72.623,"['Progressive rock', 'Jazz fusion']",38667,0,0
+seventies_Time,Pink Floyd,P,0.012072435,1974,67,84,413947,9,4,0.521,0.358,0.48,0.00428,-11.79,0.0849,0.356,120.317,['Progressive rock'],50472,0,0
+seventies_The Great Gig in the Sky,Pink Floyd,P,0.012072435,1973,64,84,283872,5,4,0.768,0.275,0.216,0.897,-13.818,0.0345,0.181,116.388,['Progressive rock'],72169,0,0
+seventies_Brass in Pocket,Pretenders,P,0.002012072,1979,58,68,184093,9,4,0.721,0.766,0.655,0,-6.677,0.0324,0.815,97.771,['New wave music'],24204,0,0
+seventies_I Wanna Be Your Lover,Prince,P,0.002012072,1979,60,77,347666,8,4,0.0315,0.805,0.387,0.0969,-13.233,0.0562,0.701,114.867,"['Funk', 'Post-disco']",22554,0,0
+seventies_Killer Queen,Queen,Q,0.020120724,1974,68,92,179355,10,4,0.365,0.526,0.64,1.30E-06,-6.374,0.0472,0.622,117.132,"['Art pop', 'Glam rock', 'Power pop']",244957,0,46
+seventies_We Will Rock You,Queen,Q,0.020120724,1977,78,92,122066,2,4,0.676,0.692,0.497,0,-7.316,0.119,0.475,81.308,['Arena rock'],359196,0,23
+seventies_Somebody To Love,Queen,Q,0.020120724,1976,74,92,296480,8,3,0.192,0.399,0.702,1.24E-06,-6.826,0.0627,0.393,109.722,['Rock music'],170824,0,22
+seventies_Don't Stop Me Now,Queen,Q,0.020120724,1979,81,92,209413,5,4,0.0475,0.559,0.868,0.000176,-5.276,0.17,0.609,156.295,"['Power pop', 'Pop rock']",263309,0,15
+seventies_We Are The Champions,Queen,Q,0.020120724,1977,75,92,179200,10,4,0.378,0.268,0.459,0,-6.94,0.0346,0.175,64.177,['Arena rock'],296916,0,12
+seventies_Love Of My Life,Queen,Q,0.020120724,1975,46,92,277533,2,3,0.867,0.221,0.301,8.47E-05,-16.975,0.0742,0.192,167.22,['Pop music'],284504,0,9
+seventies_Bohemian Rhapsody,Queen,Q,0.020120724,1976,82,92,354320,0,4,0.271,0.414,0.404,0,-9.928,0.0499,0.224,71.105,"['Progressive rock', 'Hard rock', 'Progressive pop']",1970738,2,2
+seventies_Bicycle Race,Queen,Q,0.020120724,1978,63,92,180813,3,4,0.0626,0.463,0.671,0,-6.438,0.0683,0.633,84.28,['Rock music'],373049,0,0
+seventies_Fat Bottomed Girls,Queen,Q,0.020120724,1978,65,92,255600,2,4,0.0322,0.332,0.683,6.51E-06,-7.679,0.0491,0.419,88.522,"['Glam rock', 'Hard rock']",184127,0,0
+seventies_You're My Best Friend,Queen,Q,0.020120724,1976,65,92,170786,0,4,0.148,0.51,0.76,0.0116,-6.995,0.0411,0.55,118.829,['Pop music'],135245,25,0
+seventies_Black Betty,Ram Jam,R,0.002012072,1939,66,62,237893,11,4,0.018,0.465,0.865,0.00135,-9.573,0.098,0.677,117.528,['Work song'],200998,0,0
+seventies_I Wanna Be Sedated,Ramones,R,0.004024145,1978,64,71,149466,11,4,0.169,0.597,0.96,2.89E-05,-3.989,0.042,0.937,163.017,['Punk rock'],31169,0,0
+seventies_Blitzkrieg Bop,Ramones,R,0.004024145,1976,49,71,133440,9,4,0.0103,0.547,0.733,0.131,-6.558,0.0433,0.962,176.198,"['Punk rock', 'Pop punk']",69904,0,0
+seventies_Short People,Randy Newman,R,0.002012072,1977,45,70,176933,2,4,0.731,0.68,0.617,0.0674,-5.849,0.0378,0.54,121.356,"['Comedy rock', 'Pop rock']",62920,0,0
+seventies_Get Ready,Rare Earth,R,0.002012072,1995,47,47,173706,0,4,0.0156,0.643,0.937,0.00727,-6.263,0.0288,0.961,134.756,"['Psychedelic soul', 'Blues rock']",15694,0,0
+seventies_The Time Warp,Reeve Carney,R,0.002012072,2016,38,62,248538,2,4,0.231,0.582,0.812,0.000114,-4.963,0.0756,0.533,88.89,[],0,0,0
+seventies_We're All Alone,Rita Coolidge,R,0.002012072,1976,47,50,212520,7,4,0.377,0.326,0.289,4.73E-05,-12.985,0.0307,0.345,127.664,[],24680,0,0
+seventies_Sea Song,Robert Wyatt,R,0.002012072,1974,30,42,391440,6,4,0.728,0.35,0.27,0.0223,-14.618,0.0303,0.0583,109.835,[],0,0,0
+seventies_Killing Me Softly with His Song,Roberta Flack,R,0.004024145,1973,70,65,286920,5,4,0.727,0.477,0.381,0,-10.237,0.0342,0.329,121.568,['Soul music'],405106,6,65
+seventies_The First Time Ever I Saw Your Face,Roberta Flack,R,0.004024145,1972,60,65,260666,0,4,0.731,0.311,0.0264,0.00205,-21.644,0.037,0.139,120.653,"['Soul music', 'Vocal jazz']",87328,0,0
+seventies_You're in My Heart (The Final Acclaim),Rod Stewart,R,0.012072435,1977,49,76,267906,9,4,0.632,0.554,0.293,0,-12.336,0.0341,0.354,103.293,['Pop rock'],15268,0,0
+seventies_Da Ya Think I'm Sexy?,Rod Stewart,R,0.012072435,1978,65,76,331333,2,4,0.0143,0.715,0.689,0.000192,-8.065,0.029,0.852,111.504,['Disco'],69169,0,0
+seventies_Sailing,Rod Stewart,R,0.012072435,1975,65,76,277960,11,4,0.372,0.43,0.374,0.379,-9.949,0.0292,0.191,128.56,[],24603,22,0
+seventies_I Don't Want to Talk About It,Rod Stewart,R,0.012072435,1971,52,76,290040,10,4,0.413,0.477,0.452,0.000133,-10.682,0.0285,0.351,135.142,['Country rock'],51813,0,0
+seventies_Maggie May,Rod Stewart,R,0.012072435,1971,70,76,350266,2,4,0.559,0.605,0.574,0.113,-10.536,0.0377,0.543,129.449,['Folk rock'],72614,0,0
+seventies_In a Broken Dream,Rod Stewart,R,0.012072435,1970,37,76,326026,2,4,0.483,0.272,0.568,0.0897,-10.408,0.0345,0.38,149.825,['Rock music'],12005,0,0
+seventies_Wishing on a Star,Rose Royce,R,0.004024145,1978,54,56,291760,5,4,0.716,0.333,0.422,4.13E-05,-15.171,0.0527,0.553,97.305,"['Soul music', 'Rhythm and blues']",24112,0,0
+seventies_Love Don't Live Here Anymore,Rose Royce,R,0.004024145,2004,14,70,254693,1,4,0.427,0.64,0.658,0.0188,-7.751,0.0377,0.881,156.013,[],0,0,0
+seventies_I Am The Black Gold Of The Sun,Rotary Connection,R,0.002012072,2006,44,37,349135,6,4,0.791,0.474,0.673,0.239,-13.307,0.0656,0.685,89.787,[],0,0,0
+seventies_Love Is The Drug,Roxy Music,R,0.002012072,1975,58,65,251333,2,4,0.059,0.838,0.757,0.0119,-5.399,0.0927,0.602,124.65,"['Progressive pop', 'Funk']",25763,0,0
+seventies_Everybody Loves The Sunshine,Roy Ayers Ubiquity,R,0.002012072,1976,58,51,239666,11,3,0.168,0.52,0.571,5.14E-06,-10.326,0.036,0.701,161.051,"['Rhythm and blues', 'Soul music', 'Jazz']",13800,0,0
+seventies_Escape (The Pina Colada Song),Rupert Holmes,R,0.002012072,1979,61,65,276413,0,4,0.357,0.818,0.692,9.42E-06,-8.79,0.0529,0.934,139.695,['Soft rock'],140322,0,0
+seventies_Black Magic Woman,Santana,S,0.004024145,1968,64,75,196466,2,4,0.676,0.489,0.349,0.0789,-14.295,0.0323,0.622,124.348,['Blues rock'],111196,0,0
+seventies_Oye Como Va,Santana,S,0.004024145,1970,64,75,256933,7,4,0.301,0.736,0.379,0.345,-13.208,0.0539,0.948,128.399,[],79551,0,0
+seventies_Ballade de Melody Nelson,Serge Gainsbourg,S,0.002012072,1971,41,62,120602,6,3,0.365,0.358,0.199,0.0278,-21.118,0.0421,0.618,177.699,"['Rock music', 'Avant-funk']",21976,0,0
+seventies_Anarchy in the U.K.,Sex Pistols,S,0.002012072,1976,4,61,248493,7,4,0.000101,0.255,0.96,0.924,-3.028,0.165,0.202,133.122,"['Punk rock', 'Anarcho-punk']",42389,0,0
+seventies_Diamonds Are Forever,Shirley Bassey,S,0.002012072,1998,50,55,161933,4,4,0.74,0.48,0.447,0.00437,-10.962,0.036,0.255,96.771,[],13666,0,0
+seventies_The Boxer,Simon & Garfunkel,S,0.00804829,1969,69,77,308520,11,4,0.702,0.439,0.488,0.000339,-14.464,0.0615,0.629,93.017,['Folk rock'],74521,0,67
+seventies_Bridge Over Troubled Water,Simon & Garfunkel,S,0.00804829,1970,68,77,293120,3,4,0.822,0.149,0.206,0.000649,-13.888,0.0323,0.264,79.764,['Folk rock'],101925,0,53
+seventies_El Condor Pasa (If I Could),Simon & Garfunkel,S,0.00804829,1970,59,77,187040,4,4,0.836,0.33,0.214,0.0701,-17.699,0.0311,0.275,147.795,[],66443,0,0
+seventies_Cecilia,Simon & Garfunkel,S,0.00804829,1970,72,77,174826,0,4,0.357,0.755,0.876,5.17E-06,-8.867,0.0362,0.954,102.762,"['Pop rock', 'Folk rock']",32649,8,0
+seventies_We Are Family,Sister Sledge,S,0.004024145,1979,69,66,216733,7,4,0.3,0.784,0.893,1.57E-05,-5.153,0.0923,0.819,118.738,"['Rhythm and blues', 'Disco', 'Soul music']",47837,0,0
+seventies_Lost in Music,Sister Sledge,S,0.004024145,1979,53,66,287440,0,4,0.0544,0.758,0.841,0.000153,-7.509,0.0319,0.849,114.487,"['Disco', 'Funk', 'Soul music', 'R&B']",8950,0,0
+seventies_Family Affair,Sly & The Family Stone,S,0.002012072,1971,7,66,183333,7,4,0.749,0.815,0.504,0.0224,-17.628,0.119,0.784,108.86,['Funk'],14011,0,0
+seventies_The Tears Of A Clown,Smokey Robinson & The Miracles,S,0.002012072,1970,61,65,181800,1,4,0.147,0.593,0.607,0,-9.886,0.0283,0.953,128.365,['Soul music'],34087,0,0
+seventies_Living Next Door to Alice,Smokie,S,0.004024145,1972,56,60,207693,9,4,0.107,0.591,0.396,0,-14.753,0.0371,0.781,126.091,"['Pop music', 'Folk music']",75186,0,0
+seventies_I'll Meet You at Midnight,Smokie,S,0.004024145,1976,40,60,196426,6,4,0.00276,0.705,0.38,0.000178,-16.336,0.0356,0.883,128.003,[],5172,0,0
+seventies_Driver's Seat,Sniff 'n' The Tears,S,0.002012072,1978,54,50,239333,11,4,0.00286,0.741,0.797,0.0206,-7.948,0.0371,0.979,133.011,['New wave music'],18054,0,0
+seventies_Stuck In The Middle With You,Stealers Wheel,S,0.002012072,1973,67,65,208946,7,4,0.0936,0.82,0.575,0.000135,-9.144,0.0408,0.964,123.765,"['Folk rock', 'Soft rock']",107626,0,0
+seventies_Peg,Steely Dan,S,0.004024145,1977,50,72,240333,0,4,0.0521,0.797,0.559,0.000232,-11.086,0.032,0.932,116.97,"['Yacht rock', 'Jazz fusion']",38139,0,0
+seventies_Do It Again,Steely Dan,S,0.004024145,1972,69,72,356600,2,4,0.247,0.683,0.551,2.12E-05,-10.164,0.0315,0.962,124.585,"['Soft rock', 'Funk rock']",41932,0,0
+seventies_Make Me Smile (Come up and See Me),Steve Harley,S,0.002012072,1975,34,53,236586,0,4,0.0597,0.582,0.803,7.45E-05,-8.808,0.0371,0.795,141.363,['Glam rock'],30689,0,0
+seventies_Serenade,Steve Miller Band,S,0.006036217,1976,45,72,191066,9,4,0.218,0.538,0.764,0.000781,-11.783,0.0393,0.9,116.813,[],0,0,0
+seventies_The Joker,Steve Miller Band,S,0.006036217,1973,75,72,264503,5,4,0.394,0.424,0.446,3.78E-06,-9.618,0.0525,0.794,165.158,"['Rock music', 'Blues rock', 'Southern rock']",50633,0,0
+seventies_Fly Like An Eagle,Steve Miller Band,S,0.006036217,1976,67,72,282693,9,4,0.626,0.528,0.737,0.00911,-12.703,0.121,0.632,99.361,"['Rock music', 'Psychedelic rock', 'Space rock', 'Blues']",39879,0,0
+seventies_Isn't She Lovely,Stevie Wonder,S,0.026156942,1976,66,81,394266,1,4,0.182,0.481,0.826,0.00352,-6.974,0.0851,0.819,118.679,['Soul music'],64598,0,83
+seventies_You Are The Sunshine Of My Life,Stevie Wonder,S,0.026156942,1973,69,81,178200,11,4,0.823,0.519,0.46,5.97E-05,-14.53,0.0688,0.675,132.082,"['Soul music', 'Pop music']",36003,0,0
+seventies_Living For The City,Stevie Wonder,S,0.026156942,1973,55,81,219306,11,4,0.256,0.708,0.538,0,-10.28,0.0686,0.651,98.233,['Soul music'],19840,0,0
+seventies_Don't You Worry 'Bout A Thing,Stevie Wonder,S,0.026156942,1974,58,81,284840,11,4,0.0316,0.714,0.726,0,-9.218,0.0408,0.92,124.71,['Latin soul'],43765,0,0
+"seventies_Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,S,0.026156942,1970,76,81,161160,5,4,0.0534,0.675,0.597,0,-11.329,0.0337,0.828,108.875,['Soul music'],37967,0,0
+seventies_Sir Duke,Stevie Wonder,S,0.026156942,1977,70,81,232760,6,4,0.16,0.588,0.568,0,-9.766,0.0672,0.952,106.938,"['Funk', 'Rhythm and blues', 'Pop music']",40468,0,0
+seventies_Sir Duke,Stevie Wonder,S,0.026156942,1977,70,81,232760,6,4,0.16,0.588,0.568,0,-9.766,0.0672,0.952,106.938,"['Funk', 'Rhythm and blues', 'Pop music']",40468,0,0
+seventies_Sir Duke,Stevie Wonder,S,0.026156942,1977,70,81,232760,6,4,0.16,0.588,0.568,0,-9.766,0.0672,0.952,106.938,"['Funk', 'Rhythm and blues', 'Pop music']",40468,0,0
+seventies_Sir Duke,Stevie Wonder,S,0.026156942,1977,70,81,232760,6,4,0.16,0.588,0.568,0,-9.766,0.0672,0.952,106.938,"['Funk', 'Rhythm and blues', 'Pop music']",40468,0,0
+seventies_As,Stevie Wonder,S,0.026156942,2016,58,81,428222,8,4,0.0589,0.467,0.869,0,-10.342,0.0559,0.684,102.376,[],27238,0,0
+seventies_Another Star,Stevie Wonder,S,0.026156942,1977,45,81,508226,6,4,0.102,0.57,0.844,0.000176,-9.684,0.0492,0.767,121.975,"['Rhythm and blues', 'Disco', 'Jazz']",8966,12,0
+seventies_Pastime Paradise,Stevie Wonder,S,0.026156942,1976,49,81,207693,0,4,0.154,0.514,0.487,0,-11.657,0.102,0.306,78.535,"['Soul music', 'Pop music']",36607,0,0
+seventies_Higher Ground,Stevie Wonder,S,0.026156942,1973,65,81,222600,8,4,0.0631,0.716,0.85,0.00133,-9.949,0.0426,0.821,125.474,['Funk'],42501,0,0
+seventies_Sugar Man,Sugarman,S,0.002012072,1970,56,60,229413,5,4,0.77,0.463,0.577,0,-6.542,0.043,0.43,97.83,[],12008,0,0
+seventies_The Logical Song,Supertramp,S,0.004024145,1979,39,73,250493,5,4,0.606,0.627,0.649,7.55E-05,-9.276,0.0465,0.684,120.4,['Progressive pop'],53211,0,0
+seventies_Breakfast In America,Supertramp,S,0.004024145,1990,42,73,160506,0,4,0.496,0.587,0.533,0,-9.189,0.0325,0.768,75.191,"['Pop music', 'Art rock', 'Soft rock']",132062,0,0
+seventies_The Ballroom Blitz,Sweet,S,0.002012072,1973,49,62,241746,11,4,0.00321,0.62,0.88,0.00198,-6.767,0.0816,0.828,108.607,"['Glam rock', 'Hard rock']",82976,0,0
+seventies_You Make Me Feel (Mighty Real),Sylvester,S,0.002012072,1978,59,54,395573,10,4,0.0478,0.646,0.808,0.328,-12.942,0.032,0.963,131.573,"['Disco music', 'Hi-NRG']",24547,0,0
+seventies_Children of the Revolution,T. Rex,T,0.004024145,1972,48,65,147853,4,4,0.0827,0.522,0.731,0,-8.606,0.0529,0.745,130.459,['Glam rock'],21490,0,0
+seventies_Get It On,T. Rex,T,0.004024145,1971,67,65,262613,11,4,0.176,0.728,0.878,0.856,-6.926,0.0564,0.911,126.59,"['Glam rock', 'Boogie rock']",52167,0,0
+seventies_Ding-A-Dong,Teach In,T,0.002012072,2017,40,34,149573,9,4,0.512,0.708,0.561,1.66E-06,-15.148,0.0367,0.929,139.199,[],0,0,0
+seventies_Marquee Moon,Television,T,0.002012072,1977,57,56,638426,7,4,0.0391,0.49,0.536,0.371,-10.83,0.0382,0.732,118.008,"['Post-punk', 'Rock music', 'Art punk']",59283,0,0
+seventies_Seasons in the Sun,Terry Jacks,T,0.002012072,1961,51,49,205586,6,4,0.443,0.623,0.427,0,-14.58,0.05,0.899,99.167,['Chanson'],119382,0,0
+seventies_The Long And Winding Road,The Beatles,T,0.006036217,1970,61,90,218186,3,4,0.756,0.299,0.329,0.0105,-10.096,0.0279,0.392,132.282,['Rock music'],85136,0,99
+seventies_Across The Universe,The Beatles,T,0.006036217,1969,64,90,228133,1,4,0.361,0.257,0.412,8.68E-05,-11.788,0.0287,0.858,152.126,['Psychedelic folk'],96462,0,42
+seventies_Let It Be,The Beatles,T,0.006036217,1970,77,90,243026,0,4,0.631,0.443,0.403,0,-8.339,0.0322,0.41,143.462,"['Rock music', 'Pop music', 'Gospel music']",86724,1,1
+seventies_I Don't Like Mondays,The Boomtown Rats,B,0.002012072,1979,60,52,259093,11,4,0.743,0.472,0.464,0,-6.848,0.0404,0.444,141.35,[],189694,0,0
+seventies_Just What I Needed,The Cars,C,0.002012072,1978,69,70,225626,4,4,0.0152,0.619,0.579,6.40E-05,-9.307,0.0473,0.69,127.224,"['New wave music', 'Power pop', 'Hard rock']",29987,0,0
+seventies_The Devil Went Down to Georgia,The Charlie Daniels Band,C,0.002012072,1979,62,63,215066,0,4,0.131,0.517,0.535,0,-12.027,0.0494,0.933,135.087,"['Bluegrass music', 'Country music', 'Country rock']",116636,0,0
+seventies_I Fought the Law,The Clash,C,0.004024145,1960,62,76,163240,2,4,0.00539,0.525,0.9,4.09E-05,-6.815,0.0545,0.883,151.274,['Rock and roll'],80188,0,0
+seventies_London Calling,The Clash,C,0.004024145,1979,71,76,200480,0,4,0.123,0.651,0.801,0,-7.34,0.0513,0.776,133.763,"['Post-punk', 'Punk rock']",176180,0,0
+seventies_Boys Don't Cry,The Cure,C,0.002012072,1979,72,78,155973,11,4,0.00517,0.462,0.836,0,-5.766,0.0621,0.671,168.766,['Post-punk'],66657,0,0
+seventies_Listen to the Music,The Doobie Brothers,D,0.004024145,1972,74,73,227266,1,4,0.221,0.645,0.598,3.53E-06,-13.18,0.0335,0.913,105.929,['Rock music'],26576,0,0
+seventies_Long Train Runnin',The Doobie Brothers,D,0.004024145,1973,71,73,207266,7,4,0.0916,0.575,0.912,0.00211,-7.275,0.0393,0.843,117.399,['Country rock'],26834,0,0
+seventies_Riders on the Storm,The Doors,T,0.002012072,1971,72,78,434720,11,4,0.25,0.549,0.722,0.0138,-11.729,0.0283,0.716,103.885,['Psychedelic rock'],83688,0,81
+seventies_American Woman,The Guess Who,G,0.002012072,1970,35,63,304426,9,4,0.141,0.553,0.628,1.91E-05,-10.839,0.0738,0.48,93.884,"['Blues rock', 'Hard rock', 'Psychedelic rock']",87929,0,0
+seventies_The Air That I Breathe,The Hollies,H,0.002012072,1974,63,66,257106,4,4,0.242,0.279,0.473,0.00164,-8.375,0.0309,0.246,167.792,[],57692,13,0
+seventies_Never Can Say Goodbye,The Jackson 5,J,0.006036217,1975,48,73,177626,2,4,0.565,0.528,0.658,0.000843,-11.751,0.0386,0.909,165.796,['Soul music'],41656,3,0
+seventies_ABC,The Jackson 5,J,0.006036217,1970,63,73,177426,8,4,0.451,0.71,0.815,0.000469,-7.765,0.0438,0.955,93.603,"['Soul music', 'R&B', 'Bubblegum pop', 'Disco']",42740,0,0
+seventies_I'll Be There,The Jackson 5,J,0.006036217,1970,66,73,237760,5,4,0.593,0.51,0.515,1.24E-06,-7.247,0.0253,0.331,93.212,['Soul music'],69248,0,0
+seventies_Blame It on the Boogie,The Jacksons,T,0.002012072,1978,45,65,210373,8,4,0.0671,0.774,0.747,0,-7.302,0.0928,0.881,113.298,['Disco'],42610,0,62
+seventies_Lola,The Kinks,K,0.002012072,1970,57,72,242026,9,4,0.459,0.468,0.839,0.461,-7.39,0.0365,0.935,151.842,"['Rock music', 'Folk rock']",147083,0,0
+seventies_My Sharona,The Knack,K,0.002012072,1979,72,63,295400,0,4,0.0589,0.586,0.7,0.00125,-9.558,0.0363,0.897,147.245,"['Power pop', 'New wave music']",128443,0,0
+seventies_Let's All Chant,The Michael Zager Band,M,0.002012072,1977,44,37,184453,4,4,0.0289,0.85,0.769,0.01,-8.648,0.0359,0.967,122.007,['Disco'],11005,0,0
+seventies_Airport,The Motors,M,0.002012072,1979,44,37,278933,11,4,0.31,0.516,0.451,0,-11.828,0.0284,0.577,136.601,"['Power pop', 'New wave music']",5268,10,0
+seventies_For the Love of Money,The O'Jays,O,0.004024145,1974,49,64,439866,0,4,0.236,0.679,0.802,2.33E-06,-7.739,0.0406,0.894,97.375,"['R&B', 'Philadelphia soul', 'Funk']",23527,0,0
+seventies_Love Train,The O'Jays,O,0.004024145,1972,68,64,178400,0,4,0.186,0.744,0.568,1.18E-05,-9.629,0.0494,0.687,122.657,"['Rhythm and blues', 'Philadelphia soul', 'Disco']",28950,0,0
+seventies_I Think I Love You,The Partridge Family,P,0.002012072,1971,49,47,175306,3,4,0.236,0.413,0.6,0,-9.096,0.0412,0.725,204.692,"['Pop music', 'Baroque pop']",24081,11,0
+seventies_Roxanne,The Police,T,0.010060362,1978,75,79,191946,0,4,0.0384,0.618,0.748,4.10E-06,-8.905,0.358,0.663,134.114,"['Reggae rock', 'New wave music']",76510,0,29
+seventies_So Lonely,The Police,P,0.010060362,1978,63,79,289586,7,4,0.0123,0.541,0.571,1.55E-06,-8.308,0.16,0.73,77.335,"['Reggae rock', 'New wave music']",15021,0,0
+seventies_Message In A Bottle,The Police,P,0.010060362,1979,72,79,290280,1,4,0.0338,0.577,0.808,1.33E-05,-7.04,0.039,0.869,151.008,[],0,0,0
+seventies_Walking On The Moon,The Police,P,0.010060362,1979,62,79,300826,0,4,0.00142,0.514,0.34,0.0173,-12.779,0.0537,0.269,145.992,"['Reggae rock', 'New wave music']",23999,0,0
+seventies_Can't Stand Losing You,The Police,P,0.010060362,1978,55,79,168826,2,4,0.074,0.785,0.55,2.32E-05,-12.09,0.366,0.928,142.53,"['Reggae rock', 'New wave music']",15962,0,0
+seventies_Wild Horses,The Rolling Stones,T,0.00804829,1971,69,84,341773,7,4,0.669,0.371,0.404,0.00453,-6.452,0.0255,0.153,74.386,['Country rock'],103076,0,56
+seventies_Angie,The Rolling Stones,T,0.00804829,1974,70,84,272000,9,4,0.725,0.438,0.541,0.000191,-6.012,0.0294,0.396,136.224,"['Soft rock', 'Glam rock']",55752,19,27
+seventies_Brown Sugar,The Rolling Stones,R,0.00804829,1971,69,84,228666,0,4,0.215,0.641,0.927,0.00029,-3.532,0.0351,0.966,128.606,"['Hard rock', 'Rock and roll', 'Blues rock', 'Boogie rock']",80461,0,0
+seventies_Miss You,The Rolling Stones,R,0.00804829,1978,65,84,288666,9,4,0.462,0.803,0.725,0.0137,-4.726,0.0432,0.785,109.7,"['Disco', 'Soul music']",43137,0,0
+seventies_A Message to You Rudy,The Specials,S,0.002012072,1979,61,61,172600,0,4,0.149,0.906,0.45,0.000232,-8.003,0.0627,0.969,103.476,"['Rocksteady', 'Ska', '2 Tone (music genre)']",1020,0,0
+seventies_No More Heroes,The Stranglers,S,0.002012072,1977,19,60,208346,0,4,0.000116,0.292,0.931,0.141,-8.046,0.0689,0.782,150.965,[],10333,0,0
+seventies_Rapper's Delight,The Sugarhill Gang,S,0.002012072,1979,43,57,239466,2,4,0.076,0.912,0.836,3.22E-06,-7.615,0.231,0.724,111.7,"['Old-school hip hop', 'Disco', 'Funk']",134352,0,0
+seventies_Papa Was A Rolling Stone,The Temptations,T,0.002012072,1972,41,74,432893,5,4,0.0559,0.847,0.599,0.00483,-11.607,0.0422,0.873,119.997,[],72177,0,0
+seventies_Disco Inferno,The Trammps,T,0.002012072,1976,52,57,213840,10,4,0.000362,0.676,0.704,0.0709,-8.534,0.0329,0.812,129.594,"['Disco', 'Funk']",45630,0,0
+seventies_Teenage Kicks,The Undertones,T,0.002012072,1979,58,52,148480,2,4,0.0011,0.415,0.782,0,-6.745,0.0461,0.564,135.029,"['Punk rock', 'Pop punk', 'Power pop']",25427,0,0
+seventies_Sweet Jane,The Velvet Underground,V,0.002012072,1973,3,69,246306,2,4,0.015,0.619,0.637,0,-7.369,0.0286,0.936,105.205,['Proto-punk'],37376,0,0
+seventies_Behind Blue Eyes,The Who,T,0.004024145,1971,67,75,221426,4,4,0.162,0.394,0.594,3.36E-05,-8.17,0.0327,0.342,127.115,"['Hard rock', 'Folk rock']",87648,0,91
+seventies_Baba O'Riley,The Who,W,0.004024145,1971,76,75,300000,5,4,0.287,0.494,0.722,0.186,-8.373,0.0347,0.156,117.312,['Hard rock'],173725,0,0
+seventies_Don't Leave Me This Way,Thelma Houston,T,0.002012072,1975,56,54,217733,0,4,0.153,0.553,0.839,6.00E-05,-5.844,0.116,0.673,121.819,"['Disco', 'Soul music', 'Rhythm and blues']",77600,0,0
+seventies_Whiskey In The Jar,Thin Lizzy,T,0.004024145,1972,61,68,345186,7,4,0.531,0.557,0.693,0.00141,-11.044,0.0445,0.747,127.531,[],170914,0,0
+seventies_The Boys Are Back In Town,Thin Lizzy,T,0.004024145,1976,73,68,266720,8,4,0.234,0.445,0.706,0.000252,-9.803,0.0461,0.768,80.823,"['Hard rock', 'Blues rock']",69807,0,0
+seventies_I Love to Love,Tina Charles,T,0.002012072,1986,54,50,183693,9,4,0.143,0.677,0.703,6.96E-05,-9.344,0.0344,0.962,99.419,"['Disco', 'Pop music']",19675,0,0
+seventies_I Hope That I Don't Fall In Love With You,Tom Waits,T,0.002012072,1973,57,65,233533,0,4,0.918,0.539,0.296,0.0056,-11.74,0.0253,0.545,85.622,[],0,0,0
+seventies_Hold the Line,Toto,T,0.002012072,1978,74,78,235800,6,4,0.0397,0.494,0.698,0.00634,-12.049,0.0553,0.778,95.842,"['Hard rock', 'Yacht rock']",66183,0,0
+seventies_Ain't Talkin' 'Bout Love,Van Halen,V,0.002012072,1978,38,76,226973,8,4,0.00392,0.498,0.887,0.000376,-8.344,0.0383,0.714,139.126,"['Hard rock', 'Heavy metal music']",16670,0,0
+seventies_Moondance,Van Morrison,V,0.002012072,2015,38,77,271866,9,4,0.43,0.646,0.327,1.13E-05,-10.507,0.033,0.523,134.687,"['Soft rock', 'Jazz rock']",18594,0,0
+seventies_Y.M.C.A.,Village People,V,0.004024145,1978,40,64,226426,1,4,0.169,0.673,0.948,0,-4.477,0.159,0.703,126.634,['Disco'],256016,0,34
+seventies_In the Navy,Village People,V,0.004024145,1979,54,64,339946,9,4,0.0725,0.725,0.959,0,-6.994,0.0472,0.755,127.323,['Disco'],28340,0,0
+seventies_Low Rider,War,W,0.002012072,1975,63,63,190826,0,4,0.0877,0.812,0.644,0.785,-10.761,0.0493,0.989,140.075,"['Funk', 'Latin soul']",61647,0,0
+seventies_When You Are a King,White Plains,W,0.002012072,2013,7,29,171693,7,3,0.781,0.601,0.249,0,-14.301,0.038,0.173,109.397,[],0,0,0
+seventies_Play That Funky Music,Wild Cherry,W,0.002012072,1976,66,59,300000,9,4,0.0435,0.814,0.672,0,-12.068,0.0619,0.933,109.394,['Funk rock'],93311,0,0
+seventies_Blood Is Thicker Than Water,William DeVaughn,W,0.002012072,2014,47,50,441889,4,4,0.13,0.759,0.454,0.095,-13.392,0.0841,0.702,101.041,[],0,0,0
+seventies_Mull Of Kintyre,Wings,W,0.006036217,1977,33,67,285640,2,3,0.000301,0.328,0.337,0,-12.312,0.0269,0.402,90.425,['Scottish folk music'],77914,0,0
+seventies_Silly Love Songs,Wings,W,0.006036217,1976,29,67,355186,0,4,0.154,0.755,0.46,0.116,-10.503,0.0338,0.83,124.964,"['Disco', 'Funk']",37880,11,0
+seventies_My Love,Wings,W,0.006036217,1973,21,67,250280,5,4,0.458,0.426,0.38,0.00125,-12.929,0.0335,0.119,120.061,['Lounge music'],23260,9,0
+seventies_Making Plans For Nigel,XTC,X,0.002012072,1979,59,57,253800,7,4,0.0143,0.632,0.893,5.29E-06,-6.04,0.0454,0.773,149.97,[],54533,0,0
+seventies_Father And Son,Yusuf / Cat Stevens,C,0.00804829,1970,73,74,221000,7,4,0.61,0.495,0.343,9.45E-05,-11.549,0.0355,0.453,135.882,['Folk rock'],104052,0,70
+seventies_Wild World,Yusuf / Cat Stevens,C,0.00804829,1970,75,74,200160,0,4,0.354,0.483,0.503,0.000284,-9.396,0.0341,0.598,151.862,['Folk rock'],59134,15,49
+seventies_Sad Lisa,Yusuf / Cat Stevens,C,0.00804829,1970,49,74,225706,2,3,0.925,0.58,0.219,0.0453,-15.577,0.0319,0.373,112.76,[],0,0,0
+seventies_Morning Has Broken,Yusuf / Cat Stevens,C,0.00804829,1972,65,74,200000,7,3,0.614,0.443,0.324,0.00568,-13.135,0.0312,0.386,133.102,[],76547,23,0
+seventies_If I Can't Have You,Yvonne Elliman,Y,0.002012072,1977,24,52,182760,9,4,0.00544,0.552,0.89,0,-8.317,0.0381,0.929,115.481,['Disco'],16433,0,0
